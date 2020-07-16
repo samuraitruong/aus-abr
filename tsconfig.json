@@ -5,7 +5,8 @@
     "lib": ["ES6", "ES2020"],
     "esModuleInterop": true,
     "sourceMap": true,
-    "rootDir": "src"
+    "rootDir": "src",
+    "declaration": true
   },
   "include": ["src"],
   "exclude": ["src/*.test.ts"]

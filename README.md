@@ -7,6 +7,7 @@ NodeJS package to retrieve ABN or ACN from https://abr.business.gov.au/ below fu
 - searchActive
 
 [![Coverage Status](https://coveralls.io/repos/github/samuraitruong/aus-abr/badge.svg?branch=master)](https://coveralls.io/github/samuraitruong/aus-abr?branch=master)
+This library will make request to public website to retrive and parse data , If you required to use more data, please consider to use ACIS official api
 
 # Install
 
