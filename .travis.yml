@@ -10,10 +10,10 @@ jobs:
       script: npm run build
     - stage: build & test
       script: npm run coverage
-
-deploy:
-  provider: npm
-  email: "samuraitruong@hotmail.com"
-  api_key: $NPM_API_TOKEN
-  on:
-    branch: master
+    - stage: deploy
+      deploy:
+        provider: npm
+        email: "samuraitruong@hotmail.com"
+        api_key: $NPM_API_TOKEN
+        on:
+          branch: master
