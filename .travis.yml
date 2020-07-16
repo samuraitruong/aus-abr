@@ -1,0 +1,15 @@
+language: node_js
+node_js:
+  - 12
+cache: yarn
+
+before_script:
+  - npm install -g yarn
+install:
+  - yarn
+jobs:
+  include:
+    - stage: build & test
+      script: yarn build
+    - stage: build & test
+      script: yarn test
