@@ -9,4 +9,4 @@ jobs:
     - stage: build & test
       script: npm run build
     - stage: build & test
-      script: npm test
+      script: npm run coverage
