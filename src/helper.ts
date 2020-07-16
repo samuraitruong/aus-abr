@@ -74,7 +74,7 @@ export function readTable($: CheerioStatic, table: CheerioElement) {
 export function readTableWithHeader(
   $: CheerioStatic,
   table: CheerioElement,
-  headerIndex = 0
+  headerIndex = 0 
 ) {
   if (!table) return [];
 
