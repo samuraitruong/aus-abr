@@ -57,13 +57,6 @@ export function getFieldName(header: string) {
   }
   return output || { key: header, value: defaultValue };
 }
-export function getValueByProperty(
-  $: CheerioStatic,
-  prop: string,
-  value: string
-) {
-  return $(`[${prop}='${value}']`).text().trim();
-}
 
 export function readTable($: CheerioStatic, table: CheerioElement) {
   const rows = $("tr", table).toArray();
