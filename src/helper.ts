@@ -58,7 +58,7 @@ export function getFieldName(header: string) {
   return output || { key: header, value: defaultValue };
 }
 
-export function readTable($: CheerioStatic, table: CheerioElement) {
+export function readTable<T>($: CheerioStatic, table: CheerioElement) {
   const rows = $("tr", table).toArray();
   const text = (el) => $(el).text().trim();
 
@@ -68,10 +68,10 @@ export function readTable($: CheerioStatic, table: CheerioElement) {
     const mapping = getFieldName(text(tds[0]));
     result[mapping.key] = mapping.value(text(tds[1]));
   });
-  return result;
+  return result as T;
 }
 
-export function readTableWithHeader(
+export function readTableWithHeader<T>(
   $: CheerioStatic,
   table: CheerioElement,
   headerIndex = 0 
@@ -89,6 +89,6 @@ export function readTableWithHeader(
       .forEach((td, index) => {
         item[headers[index].key] = headers[index].value($(td).text().trim());
       });
-    return item;
+    return item as T;
   });
 }

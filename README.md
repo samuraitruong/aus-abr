@@ -9,6 +9,8 @@ NodeJS package to retrieve ABN or ACN from https://abr.business.gov.au/ below fu
 [![Coverage Status](https://coveralls.io/repos/github/samuraitruong/aus-abr/badge.svg?branch=master)](https://coveralls.io/github/samuraitruong/aus-abr?branch=master)
 This library will make request to public website to retrive and parse data , If you required to use more data, please consider to use ACIS official api
 
+To use official webservice please visit https://abr.business.gov.au/Tools/WebServices
+
 # Install
 
 ```sh
@@ -44,11 +46,13 @@ const details = await lookupABN('1234567');
 Return current ABN information that display on https://abr.business.gov.au/ABN/View?abn=abn
 
 ```js
-const ausAbr = require("aus-abr");
+(async () => {
+  const ausAbr = require("aus-abr");
 
-const details = await ausAbr.lookupABN("61006912563");
+  const details = await ausAbr.lookupABN("61006912563");
 
-console.log(details);
+  console.log(details);
+})();
 ```
 
 It will output below data

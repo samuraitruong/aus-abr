@@ -1,7 +1,7 @@
 {
   "name": "aus-abr",
-  "version": "1.0.1",
-  "description": "NodeJS package to retrieve ABN or ACN from https://abr.business.gov.au/",
+  "version": "1.0.2",
+  "description": "NodeJS package to retrieve ABN or ACN from https://abr.business.gov.au/ using html parse to extract information",
   "main": "lib/index.js",
   "scripts": {
     "test": "jest --coverage",

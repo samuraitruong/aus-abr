@@ -21,6 +21,11 @@ describe("Lookup tests", () => {
     const data = await lookupABN("45 004 189 708");
     expect(data).toMatchSnapshot();
   });
+
+  it("should return null for abn=61006912566", async () => {
+    const data = await lookupABN("61006912566");
+    expect(data).toBe(null);
+  });
 });
 
 describe("History tests", () => {
@@ -39,6 +44,10 @@ describe("History tests", () => {
       expect(data).toMatchSnapshot();
     }
   );
+  it("should return null for abn=61006912566", async () => {
+    const data = await getHistory("61006912566");
+    expect(data).toBe(null);
+  });
 });
 
 describe("searchActive()", () => {
@@ -53,4 +62,9 @@ describe("searchActive()", () => {
       expect(data).toMatchSnapshot();
     }
   );
+
+  it("should return empty list when nothing match with search condition ", async () => {
+    const data = await searchActive("nothingwillmatchthissearch");
+    expect(data).toHaveLength(0);
+  });
 });
