@@ -1,4 +1,6 @@
 # aus-abr
+[![DeepScan grade](https://deepscan.io/api/teams/10299/projects/13026/branches/211603/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=10299&pid=13026&bid=211603) [![Coverage Status](https://coveralls.io/repos/github/samuraitruong/aus-abr/badge.svg?branch=master)](https://coveralls.io/github/samuraitruong/aus-abr?branch=master)
+
 
 NodeJS package to retrieve ABN or ACN from https://abr.business.gov.au/ below function are supported:
 
@@ -6,7 +8,6 @@ NodeJS package to retrieve ABN or ACN from https://abr.business.gov.au/ below fu
 - getHistory
 - searchActive
 
-[![Coverage Status](https://coveralls.io/repos/github/samuraitruong/aus-abr/badge.svg?branch=master)](https://coveralls.io/github/samuraitruong/aus-abr?branch=master)
 This library will make request to public website to retrive and parse data , If you required to use more data, please consider to use ACIS official api
 
 To use official webservice please visit https://abr.business.gov.au/Tools/WebServices

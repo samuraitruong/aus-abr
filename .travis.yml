@@ -7,6 +7,9 @@ install:
 jobs:
   include:
     - stage: build & test
+      script: npm run lint
+
+    - stage: build & test
       script: npm run build
     - stage: build & test
       script: npm run coverage
