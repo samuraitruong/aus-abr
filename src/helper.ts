@@ -74,7 +74,7 @@ export function readTable<T>($: CheerioStatic, table: CheerioElement) {
 export function readTableWithHeader<T>(
   $: CheerioStatic,
   table: CheerioElement,
-  headerIndex = 0 
+  headerIndex = 0
 ) {
   if (!table) return [];
 
@@ -84,7 +84,7 @@ export function readTableWithHeader<T>(
     .map((td) => getFieldName($(td).text().trim()));
   return rows.slice(headerIndex + 1).map((row) => {
     const item: any = {};
-    const tds = $("td", row)
+    $("td", row)
       .toArray()
       .forEach((td, index) => {
         item[headers[index].key] = headers[index].value($(td).text().trim());

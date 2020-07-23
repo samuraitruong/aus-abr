@@ -1,5 +1,3 @@
-import { lookup } from "dns";
-
 import { lookupABN, getHistory, searchActive } from ".";
 
 describe("Lookup tests", () => {
