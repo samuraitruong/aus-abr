@@ -38,7 +38,7 @@ const details = await lookupABN('1234567');
 
 ```
 
-## Use with romise
+## Use with promise
 
 # API
 
