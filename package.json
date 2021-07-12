@@ -17,6 +17,9 @@
     "abr"
   ],
   "author": "samuraitruong@hotmail.com",
+  "contributors": [
+    "Andre 'McHill' (https://github.com/andre-mchill)"
+  ],
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/samuraitruong/aus-abr/issues"
