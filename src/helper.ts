@@ -1,4 +1,5 @@
-import "cheerio";
+import * as cheerio from "cheerio";
+
 const locationValue = (location: string) => {
   const [state, postcode] = location.split(" ").filter((x) => x != " ");
   return { state, postcode: parseInt(postcode) };
@@ -42,13 +43,13 @@ const fieldMapping = {
   abn: [{ header: "ABN", transformValue: removeText("Active") }],
 };
 export function getFieldName(header: string) {
-  const replacedHader = header.replace(":", "");
+  const replacedHeader = header.replace(":", "");
   const entries = Object.entries(fieldMapping);
   const defaultValue = (v) => v;
   let output;
   for (const [key, value] of entries) {
     const filtered = value.find(
-      (x) => x.header.toLocaleLowerCase() === replacedHader.toLocaleLowerCase()
+      (x) => x.header.toLocaleLowerCase() === replacedHeader.toLocaleLowerCase()
     );
     if (filtered) {
       output = { key, value: (filtered as any).transformValue ?? defaultValue };
@@ -58,7 +59,7 @@ export function getFieldName(header: string) {
   return output || { key: header, value: defaultValue };
 }
 
-export function readTable<T>($: CheerioStatic, table: CheerioElement) {
+export function readTable<T>($: cheerio.CheerioAPI, table: cheerio.Element) {
   const rows = $("tr", table).toArray();
   const text = (el) => $(el).text().trim();
 
@@ -72,8 +73,8 @@ export function readTable<T>($: CheerioStatic, table: CheerioElement) {
 }
 
 export function readTableWithHeader<T>(
-  $: CheerioStatic,
-  table: CheerioElement,
+  $: cheerio.CheerioAPI,
+  table: cheerio.Element,
   headerIndex = 0
 ) {
   if (!table) return [];
