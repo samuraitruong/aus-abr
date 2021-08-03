@@ -2,7 +2,7 @@
   "compilerOptions": {
     "outDir": "lib",
     "module": "CommonJS",
-    "lib": ["ES6", "ES2020"],
+    "lib": ["ES6", "ES2018"],
     "esModuleInterop": true,
     "sourceMap": true,
     "rootDir": "src",

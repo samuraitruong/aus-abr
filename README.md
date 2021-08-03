@@ -8,7 +8,7 @@ NodeJS package to retrieve ABN or ACN from https://abr.business.gov.au/ below fu
 - getHistory
 - searchActive
 
-This library will make request to public website to retrive and parse data , If you required to use more data, please consider to use ACIS official api
+This library will make request to public website to retrieve html and parse it to get data, If you required to use more data, please consider to use ACIS official api
 
 To use official webservice please visit https://abr.business.gov.au/Tools/WebServices
 
@@ -38,7 +38,7 @@ const details = await lookupABN('1234567');
 
 ```
 
-## Use with romise
+## Use with promise
 
 # API
 

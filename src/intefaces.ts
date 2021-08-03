@@ -29,5 +29,5 @@ export interface IABNDetail {
 export interface ILookupResult {
   details: IABNDetail;
   businessNames: IBusinessName[];
-  trandingNames: IBusinessName;
+  tradingNames: IBusinessName[];
 }
