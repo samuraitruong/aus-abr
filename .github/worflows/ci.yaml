@@ -8,11 +8,10 @@ on:
     types: [created]
   push:
     branches:
-      - main
-      - "*"
+      - master
   pull_request:
     branches:
-      - main
+      - master
 
 jobs:
   build:
@@ -28,19 +27,6 @@ jobs:
       - run: yarn test
       - run: yarn coverage
       - run: yarn build
-      # - uses: romeovs/lcov-reporter-action@v0.2.16
-      #   if: github.event_name == 'pull_request'
-      #   with:
-      #     github-token: ${{ secrets.GITHUB_TOKEN }}
-      #     lcov-file: ./coverage/lcov.info
-      - uses: codecov/codecov-action@v1
-        with:
-          token: ${{ secrets.CODECOV_TOKEN }} # not required for public repos
-          #files: ./coverage1.xml,./coverage2.xml # optional
-          flags: unittests # optional
-          name: codecov-umbrella # optional
-          fail_ci_if_error: true # optional (default = false)
-          verbose: true # optional (default = false)
 
   publish-npm:
     if: github.ref == 'refs/heads/master'
@@ -57,13 +43,14 @@ jobs:
           registry-url: https://registry.npmjs.org/
       - run: |
           yarn install
-          yarn doc-gen
+          yarn build
+
         env:
           NODE_AUTH_TOKEN: ${{secrets.NPM_TOKEN}}
       - name: Publish NPM
         run: |
           yarn release
-          git push --follow-tags origin main && npm publish
+          git push --follow-tags origin master && npm publish
 
       # - uses: JamesIves/github-pages-deploy-action@4.1.1
       #   with:
