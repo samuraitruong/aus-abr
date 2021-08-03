@@ -7,7 +7,6 @@
     "test": "jest --coverage",
     "build": "tsc",
     "lint": "eslint .",
-    "coverage": "jest --coverage && cat ./coverage/lcov.info | coveralls",
     "release": "standard-version"
   },
   "repository": {

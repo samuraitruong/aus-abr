@@ -2325,40 +2325,6 @@ Object {
 
 exports[`Lookup tests should retrieve ABN information for ACN: 15 035 513 435 , name: BAROSSA GRAPE AND WINE ASSOCIATION INCORPORATED , gst: Registered 1`] = `
 Object {
-  "businessNames": Array [],
-  "details": Object {
-    "abnStatus": Object {
-      "from": "23 Jun 2017",
-      "status": "Cancelled",
-      "statusText": "Cancelled from 23 Jun 2017",
-    },
-    "businessLocation": Object {
-      "postcode": 6017,
-      "state": "WA",
-    },
-    "entityName": "K.L CHOW & K.F HWANG & H WONG",
-    "entityType": "Other Partnership",
-    "gstStatus": Object {
-      "from": undefined,
-      "status": "unregistered",
-      "statusText": "Not currently registered for GST",
-    },
-  },
-  "tradingNames": Array [
-    Object {
-      "from": "18 Aug 2011",
-      "tradingName": "faith kolly Hwang.Hong peng kevin Wong. kok leong Chow",
-    },
-    Object {
-      "from": "18 Aug 2011",
-      "tradingName": "CK2 cleaning services",
-    },
-  ],
-}
-`;
-
-exports[`Lookup tests should retrieve ABN information for ACN: 15 035 513 435 , name: BAROSSA GRAPE AND WINE ASSOCIATION INCORPORATED , gst: Registered 2`] = `
-Object {
   "businessNames": Array [
     Object {
       "businessName": "Barossa Australia",
@@ -2402,107 +2368,33 @@ Object {
 
 exports[`Lookup tests should retrieve ABN information for ACN: 35 460 201 920 , name: K.L CHOW & K.F HWANG & H WONG , gst: not registered 1`] = `
 Object {
-  "businessNames": Array [
-    Object {
-      "businessName": "COMMINSURE",
-      "from": "25 May 2021",
-    },
-    Object {
-      "businessName": "COMMONWEALTH FINANCIAL SERVICES",
-      "from": "25 May 2021",
-    },
-    Object {
-      "businessName": "BANKWEST",
-      "from": "22 Mar 2013",
-    },
-    Object {
-      "businessName": "COMMONWEALTH AWARDS",
-      "from": "16 May 2012",
-    },
-    Object {
-      "businessName": "COMMONWEALTH BANK GROUP",
-      "from": "17 Nov 2010",
-    },
-    Object {
-      "businessName": "COMMONWEALTH FINANCIAL SERVICES",
-      "from": "03 Jun 2010",
-    },
-    Object {
-      "businessName": "COMMONWEALTH PRIVATE BANK",
-      "from": "17 May 2010",
-    },
-    Object {
-      "businessName": "CBA WOMEN IN FOCUS",
-      "from": "29 Mar 2010",
-    },
-    Object {
-      "businessName": "WOMEN IN FOCUS",
-      "from": "01 Oct 2009",
-    },
-    Object {
-      "businessName": "WOMEN IN FOCUS",
-      "from": "26 Aug 2009",
-    },
-    Object {
-      "businessName": "COMMONWEALTH PRIVATE BANK",
-      "from": "01 Oct 2004",
-    },
-    Object {
-      "businessName": "COMMONWEALTH BANK",
-      "from": "15 Nov 2000",
-    },
-    Object {
-      "businessName": "COMMBANK",
-      "from": "04 Oct 2000",
-    },
-    Object {
-      "businessName": "MY COMMBANK",
-      "from": "20 Jun 2000",
-    },
-    Object {
-      "businessName": "WHICH BANK",
-      "from": "13 Jan 2000",
-    },
-    Object {
-      "businessName": "DOLLARMITE",
-      "from": "04 Jan 2000",
-    },
-    Object {
-      "businessName": "AUSTRALASIAN ASSET RESIDUAL MANAGEMENT",
-      "from": "01 Nov 1999",
-    },
-    Object {
-      "businessName": "COLONIAL STATE BANK",
-      "from": "01 Nov 1999",
-    },
-  ],
+  "businessNames": Array [],
   "details": Object {
-    "Replaces:": "61 814 236 264",
     "abnStatus": Object {
-      "from": "01 Nov 1999",
-      "status": "Active",
-      "statusText": "Active from 01 Nov 1999",
+      "from": "23 Jun 2017",
+      "status": "Cancelled",
+      "statusText": "Cancelled from 23 Jun 2017",
     },
     "businessLocation": Object {
-      "postcode": 2000,
-      "state": "NSW",
+      "postcode": 6017,
+      "state": "WA",
     },
-    "entityName": "COMMONWEALTH BANK OF AUSTRALIA",
-    "entityType": "Australian Public Company",
+    "entityName": "K.L CHOW & K.F HWANG & H WONG",
+    "entityType": "Other Partnership",
     "gstStatus": Object {
-      "from": "01 Jul 2000",
-      "status": "Registered",
-      "statusText": "Registered from 01 Jul 2000",
+      "from": undefined,
+      "status": "unregistered",
+      "statusText": "Not currently registered for GST",
     },
   },
   "tradingNames": Array [
     Object {
-      "from": "13 Sep 2000",
-      "tradingName": "COMMONWEALTH BANK OF AUSTRALIA",
+      "from": "18 Aug 2011",
+      "tradingName": "faith kolly Hwang.Hong peng kevin Wong. kok leong Chow",
     },
     Object {
-      "from": "20 Jul 2000",
-      "tradingName": "COMMOMWEALTH BANK OF AUSTRALIA",
+      "from": "18 Aug 2011",
+      "tradingName": "CK2 cleaning services",
     },
   ],
 }

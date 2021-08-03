@@ -1,5 +1,6 @@
 import { lookupABN, getHistory, searchActive } from ".";
 
+jest.setTimeout(30000)
 describe("Lookup tests", () => {
   it.each`
     abnOrAcn            | name                                                 | gst

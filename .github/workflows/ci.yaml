@@ -22,7 +22,11 @@ jobs:
       - run: yarn
       - run: yarn lint
       - run: yarn test
-      - run: yarn coverage
+      - name: Coveralls
+        uses: coverallsapp/github-action@master
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+
       - run: yarn build
 
   publish-npm:
@@ -46,5 +50,7 @@ jobs:
           NODE_AUTH_TOKEN: ${{secrets.NPM_TOKEN}}
       - name: Publish NPM
         run: |
+          git config --global user.email "${{github.actor}}@@users.noreply.github.com"
+          git config --global user.name "${{github.actor}}"
           yarn release
           git push --follow-tags origin master && npm publish
