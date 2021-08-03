@@ -1,13 +1,14 @@
 {
   "name": "aus-abr",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "NodeJS package to retrieve ABN or ACN from https://abr.business.gov.au/ using html parse to extract information",
   "main": "lib/index.js",
   "scripts": {
     "test": "jest --coverage",
     "build": "tsc",
     "lint": "eslint .",
-    "coverage": "jest --coverage && cat ./coverage/lcov.info | coveralls"
+    "coverage": "jest --coverage && cat ./coverage/lcov.info | coveralls",
+    "release": "standard-version"
   },
   "repository": {
     "type": "git",
@@ -30,6 +31,7 @@
     "coveralls": "^3.1.0",
     "eslint": "^7.4.0",
     "jest": "^26.1.0",
+    "standard-version": "^9.3.1",
     "ts-jest": "^26.1.1",
     "typescript": "^3.9.6"
   },
