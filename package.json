@@ -1,6 +1,6 @@
 {
   "name": "aus-abr",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "NodeJS package to retrieve ABN or ACN from https://abr.business.gov.au/ using html parse to extract information",
   "main": "lib/index.js",
   "scripts": {
@@ -17,25 +17,27 @@
     "abr"
   ],
   "author": "samuraitruong@hotmail.com",
-  "license": "ISC",
+  "contributors": [
+    "Andre 'McHill' (https://github.com/andre-mchill)"
+  ],
+  "license": "GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/samuraitruong/aus-abr/issues"
   },
   "homepage": "https://github.com/samuraitruong/aus-abr#readme",
   "devDependencies": {
-    "@types/cheerio": "^0.22.21",
-    "@types/jest": "^26.0.4",
-    "@typescript-eslint/eslint-plugin": "^3.6.0",
-    "@typescript-eslint/parser": "^3.6.0",
-    "coveralls": "^3.1.0",
-    "eslint": "^7.4.0",
-    "jest": "^26.1.0",
-    "ts-jest": "^26.1.1",
-    "typescript": "^3.9.6"
+    "@types/jest": ">=26.0.24",
+    "@typescript-eslint/eslint-plugin": "^3.6.1",
+    "@typescript-eslint/parser": "^3.6.1",
+    "coveralls": "^3.1.1",
+    "eslint": "^7.30.0",
+    "jest": "^27.0.6",
+    "ts-jest": "^27.0.3",
+    "typescript": "^4.3.5"
   },
   "dependencies": {
-    "axios": "^0.19.2",
-    "cheerio": "^1.0.0-rc.3"
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.10"
   },
   "publishConfig": {
     "access": "public"

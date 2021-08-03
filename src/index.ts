@@ -5,8 +5,8 @@ import { TableNames } from "./enum";
 import { ISearchItem, IBusinessName, IABNDetail } from "./intefaces";
 
 async function fetch(url) {
-  const resposne = await axios.get(url);
-  const $ = cheerio.load(resposne.data);
+  const response = await axios.get(url);
+  const $ = cheerio.load(response.data);
   const tables = $("table").toArray();
   const parseTable = tables.reduce((current, table) => {
     const caption = $("caption", table).text().trim();
@@ -75,7 +75,7 @@ export async function getHistory(abn: string) {
 
 /**
  * Find list of all business name or entity name that match with the input keywork
- * @param keyword entty name or business name to search
+ * @param keyword entity name or business name to search
  * @returns {ISearchItem[]} list of all business that match with condition search
  */
 export async function searchActive(keyword: string) {
