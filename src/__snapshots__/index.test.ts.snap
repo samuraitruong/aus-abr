@@ -1,89 +1,89 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`History tests should get histories data match with snapshots - 006912563 1`] = `
-Object {
-  "abnStatus": Array [
-    Object {
+{
+  "abnStatus": [
+    {
       "from": "03 Feb 2000",
       "to": "(current)",
       "value": "Active",
     },
   ],
-  "businessLocation": Array [
-    Object {
+  "businessLocation": [
+    {
       "from": "22 Sep 2014",
       "to": "(current)",
       "value": "VIC 3105",
     },
-    Object {
+    {
       "from": "14 Jan 2014",
       "to": "22 Sep 2014",
       "value": "VIC 3105",
     },
-    Object {
+    {
       "from": "02 Sep 2003",
       "to": "14 Jan 2014",
       "value": "VIC 3105",
     },
-    Object {
+    {
       "from": "03 Feb 2000",
       "to": "02 Sep 2003",
       "value": "VIC 3105",
     },
   ],
-  "businessName": Array [
-    Object {
+  "businessName": [
+    {
       "from": "13 Oct 2011",
       "to": "(current)",
       "value": "TUBEPAK",
     },
-    Object {
+    {
       "from": "15 Nov 2011",
       "to": "17 Feb 2021",
       "value": "TUBEPAK",
     },
-    Object {
+    {
       "from": "24 Oct 2011",
       "to": "17 Feb 2021",
       "value": "TUBEPAK",
     },
-    Object {
+    {
       "from": "18 Oct 2011",
       "to": "17 Feb 2021",
       "value": "TUBEPAK",
     },
-    Object {
+    {
       "from": "",
       "to": "",
       "value": "006 912 563 View record on the ASIC website",
     },
-    Object {
+    {
       "from": "",
       "to": "",
       "value": "Not entitled to receive tax deductible gifts",
     },
   ],
-  "entityName": Array [
-    Object {
+  "entityName": [
+    {
       "from": "01 Jun 2000",
       "to": "(current)",
       "value": "SONOCO AUSTRALIA PTY. LTD.",
     },
-    Object {
+    {
       "from": "03 Feb 2000",
       "to": "01 Jun 2000",
       "value": "SONOCO AUSTRALIA P/L",
     },
   ],
-  "entityType": Array [
-    Object {
+  "entityType": [
+    {
       "from": "",
       "to": "",
       "value": "Australian Private Company",
     },
   ],
-  "gstStatus": Array [
-    Object {
+  "gstStatus": [
+    {
       "from": "01 Jul 2000",
       "to": "(current)",
       "value": "Registered",
@@ -93,111 +93,121 @@ Object {
 `;
 
 exports[`History tests should get histories data match with snapshots - 15 035 513 435 1`] = `
-Object {
-  "abnStatus": Array [
-    Object {
+{
+  "abnStatus": [
+    {
       "from": "06 Jul 2006",
       "to": "(current)",
       "value": "Active",
     },
   ],
-  "businessLocation": Array [
-    Object {
-      "from": "10 Sep 2014",
+  "businessLocation": [
+    {
+      "from": "27 Oct 2020",
       "to": "(current)",
       "value": "SA 5352",
     },
-    Object {
+    {
+      "from": "10 Sep 2014",
+      "to": "27 Oct 2020",
+      "value": "SA 5352",
+    },
+    {
       "from": "19 Sep 2008",
       "to": "10 Sep 2014",
       "value": "SA 5352",
     },
-    Object {
+    {
       "from": "24 Apr 2008",
       "to": "19 Sep 2008",
       "value": "SA 5355",
     },
-    Object {
+    {
       "from": "06 Jul 2006",
       "to": "24 Apr 2008",
       "value": "SA 5352",
     },
   ],
-  "businessName": Array [
-    Object {
+  "businessName": [
+    {
       "from": "29 Oct 2019",
       "to": "(current)",
       "value": "Barossa Australia",
     },
-    Object {
+    {
       "from": "20 Oct 2018",
       "to": "(current)",
       "value": "Barossa Wine School",
     },
-    Object {
+    {
       "from": "08 Aug 2018",
       "to": "(current)",
       "value": "BGWA",
     },
-    Object {
+    {
       "from": "",
       "to": "",
-      "value": "From 1 November 2023, ABN Lookup will not display trading names and will only display registered business names. For more information, click help.",
+      "value": "From 1 November 2025, ABN Lookup will not display trading names and will only display registered business names. For more information, click help.",
     },
   ],
-  "entityName": Array [
-    Object {
-      "from": "24 Oct 2011",
+  "entityName": [
+    {
+      "from": "14 Sep 2023",
       "to": "(current)",
+      "value": "BAROSSA AUSTRALIA INCORPORATED",
+    },
+    {
+      "from": "24 Oct 2011",
+      "to": "14 Sep 2023",
       "value": "BAROSSA GRAPE AND WINE ASSOCIATION INCORPORATED",
     },
-    Object {
+    {
       "from": "19 Sep 2008",
       "to": "24 Oct 2011",
       "value": "BAROSSA GRAPE AND WINE ASSOCIATION",
     },
-    Object {
+    {
       "from": "25 Feb 2008",
       "to": "19 Sep 2008",
       "value": "Barossa Grape and Wine Association",
     },
-    Object {
+    {
       "from": "11 Sep 2006",
       "to": "25 Feb 2008",
       "value": "Barossa Grape and Wine Association",
     },
-    Object {
+    {
       "from": "06 Jul 2006",
       "to": "11 Sep 2006",
       "value": "Barossa Wine Grapegrowers Steering Committee",
     },
   ],
-  "entityType": Array [
-    Object {
+  "entityType": [
+    {
       "from": "",
       "to": "",
       "value": "Other Incorporated Entity",
     },
   ],
-  "gstStatus": Array [
-    Object {
+  "gstStatus": [
+    {
       "from": "01 Oct 2007",
       "to": "(current)",
       "value": "Registered",
     },
   ],
-  "tradingName": Array [
-    Object {
+  "tradingName": [
+    {
       "from": "19 Sep 2008",
       "to": "(current)",
       "value": "BAROSSA GRAPE AND WINE ASSOCIATION",
     },
-    Object {
+    {
       "from": "27 Aug 2008",
       "to": "19 Sep 2008",
       "value": "Barossa Grape and Wine Association",
     },
-    Object {
+    {
       "from": "",
       "to": "",
       "value": "Not entitled to receive tax deductible gifts",
@@ -207,69 +217,69 @@ Object {
 `;
 
 exports[`History tests should get histories data match with snapshots - 35 460 201 920 1`] = `
-Object {
-  "abnStatus": Array [
-    Object {
+{
+  "abnStatus": [
+    {
       "from": "23 Jun 2017",
       "to": "(current)",
       "value": "Cancelled",
     },
-    Object {
+    {
       "from": "18 Aug 2011",
       "to": "23 Jun 2017",
       "value": "Active",
     },
   ],
-  "businessLocation": Array [
-    Object {
+  "businessLocation": [
+    {
       "from": "16 Sep 2014",
       "to": "(current)",
       "value": "WA 6017",
     },
-    Object {
+    {
       "from": "18 Aug 2011",
       "to": "16 Sep 2014",
       "value": "WA 6017",
     },
-    Object {
+    {
       "from": "",
       "to": "",
-      "value": "From 1 November 2023, ABN Lookup will not display trading names and will only display registered business names. For more information, click help.",
+      "value": "From 1 November 2025, ABN Lookup will not display trading names and will only display registered business names. For more information, click help.",
     },
   ],
-  "entityName": Array [
-    Object {
+  "entityName": [
+    {
       "from": "18 Aug 2011",
       "to": "(current)",
       "value": "K.L CHOW & K.F HWANG & H WONG",
     },
   ],
-  "entityType": Array [
-    Object {
+  "entityType": [
+    {
       "from": "",
       "to": "",
       "value": "Other Partnership",
     },
   ],
-  "gstStatus": Array [
-    Object {
+  "gstStatus": [
+    {
       "from": "",
       "to": "",
       "value": "No current or historical GST registrations",
     },
   ],
-  "tradingName": Array [
-    Object {
+  "tradingName": [
+    {
       "from": "18 Aug 2011",
       "to": "(current)",
       "value": "faith kolly Hwang.Hong peng kevin Wong. kok leong Chow",
     },
-    Object {
+    {
       "from": "18 Aug 2011",
       "to": "(current)",
       "value": "CK2 cleaning services",
     },
-    Object {
+    {
       "from": "",
       "to": "",
       "value": "Not entitled to receive tax deductible gifts",
@@ -279,466 +289,466 @@ Object {
 `;
 
 exports[`History tests should get histories data match with snapshots - 45 004 189 708 1`] = `
-Object {
-  "abnStatus": Array [
-    Object {
+{
+  "abnStatus": [
+    {
       "from": "14 Feb 2000",
       "to": "(current)",
       "value": "Active",
     },
   ],
-  "businessLocation": Array [
-    Object {
+  "businessLocation": [
+    {
       "from": "05 Jul 2017",
       "to": "(current)",
       "value": "VIC 3123",
     },
-    Object {
+    {
       "from": "04 Jan 2017",
       "to": "05 Jul 2017",
       "value": "VIC 3123",
     },
-    Object {
+    {
       "from": "30 Nov 2016",
       "to": "04 Jan 2017",
       "value": "VIC 3123",
     },
-    Object {
+    {
       "from": "23 Nov 2016",
       "to": "30 Nov 2016",
       "value": "VIC 3123",
     },
-    Object {
+    {
       "from": "14 Feb 2000",
       "to": "23 Nov 2016",
       "value": "VIC 3146",
     },
   ],
-  "businessName": Array [
-    Object {
+  "businessName": [
+    {
       "from": "15 Dec 2017",
       "to": "(current)",
       "value": "COLES LOCAL",
     },
-    Object {
+    {
       "from": "27 Apr 2012",
       "to": "(current)",
       "value": "MIX APPAREL",
     },
-    Object {
+    {
       "from": "16 Feb 2004",
       "to": "(current)",
       "value": "COLES CENTRAL",
     },
-    Object {
+    {
       "from": "14 Feb 2000",
       "to": "(current)",
       "value": "COLES ONLINE",
     },
-    Object {
+    {
       "from": "14 Feb 2000",
       "to": "(current)",
       "value": "COLES SUPERMARKETS",
     },
-    Object {
+    {
       "from": "14 Feb 2000",
       "to": "(current)",
       "value": "PICK 'N' PAY",
     },
-    Object {
+    {
       "from": "18 Jul 2007",
       "to": "29 Dec 2016",
       "value": "COLES CENTRAL",
     },
-    Object {
+    {
       "from": "31 May 2007",
       "to": "02 Sep 2010",
       "value": "COLES CENTRAL",
     },
-    Object {
+    {
       "from": "28 May 2007",
       "to": "29 Dec 2016",
       "value": "COLES CENTRAL",
     },
-    Object {
+    {
       "from": "25 Jul 2006",
       "to": "31 Aug 2009",
       "value": "KENNEDY'S KUNUNURRA NEWSAGENCY",
     },
-    Object {
+    {
       "from": "17 Dec 2004",
       "to": "28 Apr 2008",
       "value": "COLES MYER SUPERMARKETS",
     },
-    Object {
+    {
       "from": "17 Dec 2004",
       "to": "18 Feb 2008",
       "value": "COLES MYER SUPERMARKETS",
     },
-    Object {
+    {
       "from": "15 Dec 2004",
       "to": "21 Jan 2008",
       "value": "COLES MYER SUPERMARKETS",
     },
-    Object {
+    {
       "from": "14 Dec 2004",
       "to": "17 Mar 2008",
       "value": "COLES MYER SUPERMARKETS",
     },
-    Object {
+    {
       "from": "30 Nov 2004",
       "to": "06 Jun 2008",
       "value": "COLES MYER SUPERMARKETS",
     },
-    Object {
+    {
       "from": "16 Apr 2004",
       "to": "21 May 2007",
       "value": "COLES CENTRAL",
     },
-    Object {
+    {
       "from": "12 Feb 2004",
       "to": "14 May 2007",
       "value": "COLES CENTRAL",
     },
-    Object {
+    {
       "from": "13 Feb 2003",
       "to": "15 May 2012",
       "value": "SHOPFAST.COM.AU",
     },
-    Object {
+    {
       "from": "06 Oct 2000",
       "to": "07 Oct 2006",
       "value": "COLES ONLINE BULK",
     },
-    Object {
+    {
       "from": "14 Feb 2000",
       "to": "29 Dec 2016",
       "value": "COLES ONLINE",
     },
-    Object {
+    {
       "from": "14 Feb 2000",
       "to": "29 Dec 2016",
       "value": "COLES ONLINE",
     },
-    Object {
+    {
       "from": "14 Feb 2000",
       "to": "29 Dec 2016",
       "value": "COLES ONLINE",
     },
-    Object {
+    {
       "from": "14 Feb 2000",
       "to": "29 Dec 2016",
       "value": "COLES ONLINE",
     },
-    Object {
+    {
       "from": "14 Feb 2000",
       "to": "29 Dec 2016",
       "value": "COLES SUPERMARKETS",
     },
-    Object {
+    {
       "from": "14 Feb 2000",
       "to": "29 Dec 2016",
       "value": "COLES SUPERMARKETS",
     },
-    Object {
+    {
       "from": "14 Feb 2000",
       "to": "29 Dec 2016",
       "value": "COLES SUPERMARKETS",
     },
-    Object {
+    {
       "from": "14 Feb 2000",
       "to": "29 Dec 2016",
       "value": "COLES SUPERMARKETS",
     },
-    Object {
+    {
       "from": "14 Feb 2000",
       "to": "29 Dec 2016",
       "value": "COLES SUPERMARKETS",
     },
-    Object {
+    {
       "from": "14 Feb 2000",
       "to": "29 Mar 2016",
       "value": "COLES SUPERMARKETS",
     },
-    Object {
+    {
       "from": "14 Feb 2000",
       "to": "27 May 2012",
       "value": "COLES NEW WORLD SUPERMARKET",
     },
-    Object {
+    {
       "from": "14 Feb 2000",
       "to": "20 Jul 2009",
       "value": "COLES SUPERMARKETS",
     },
-    Object {
+    {
       "from": "14 Feb 2000",
       "to": "24 Apr 2006",
       "value": "ORD RIVER NEWSAGENCY",
     },
-    Object {
+    {
       "from": "14 Feb 2000",
       "to": "03 Jun 2003",
       "value": "ESSENTIALLY ME",
     },
-    Object {
+    {
       "from": "14 Feb 2000",
       "to": "14 May 2003",
       "value": "COLES MYER SUPERMARKETS",
     },
-    Object {
+    {
       "from": "14 Feb 2000",
       "to": "11 Apr 2003",
       "value": "COLES MYER SUPERMARKETS",
     },
-    Object {
+    {
       "from": "14 Feb 2000",
       "to": "04 Sep 2002",
       "value": "ESSENTIALLY ME",
     },
-    Object {
+    {
       "from": "14 Feb 2000",
       "to": "13 Mar 2001",
       "value": "X'TRA VALU STORES",
     },
-    Object {
+    {
       "from": "14 Feb 2000",
       "to": "28 Nov 2000",
       "value": "KENNEDYS NEWSAGENCY",
     },
-    Object {
+    {
       "from": "14 Feb 2000",
       "to": "29 Sep 2000",
       "value": "FARMERS STORES OF W.A.",
     },
-    Object {
+    {
       "from": "14 Feb 2000",
       "to": "13 Jun 2000",
       "value": "KENNEDYS OF BROOME",
     },
-    Object {
+    {
       "from": "14 Feb 2000",
       "to": "18 Dec 2001",
       "value": "LET'S EAT",
     },
-    Object {
+    {
       "from": "14 Feb 2000",
       "to": "15 Jul 2002",
       "value": "COLES FAST & FRESH",
     },
-    Object {
+    {
       "from": "14 Feb 2000",
       "to": "15 Jul 2002",
       "value": "COLES FAST & FRESH",
     },
-    Object {
+    {
       "from": "14 Feb 2000",
       "to": "10 May 2002",
       "value": "COLES FAST & FRESH",
     },
-    Object {
+    {
       "from": "14 Feb 2000",
       "to": "06 Aug 2002",
       "value": "COLES FAST & FRESH",
     },
-    Object {
+    {
       "from": "14 Feb 2000",
       "to": "06 Aug 2002",
       "value": "COLES FAST & FRESH",
     },
-    Object {
+    {
       "from": "14 Feb 2000",
       "to": "25 Jun 2002",
       "value": "COLES FAST & FRESH",
     },
-    Object {
+    {
       "from": "14 Feb 2000",
       "to": "05 Feb 2002",
       "value": "COLES FAST AND FRESH",
     },
-    Object {
+    {
       "from": "14 Feb 2000",
       "to": "21 Oct 2004",
       "value": "COLES FAST & FRESH",
     },
-    Object {
+    {
       "from": "14 Feb 2000",
       "to": "19 Jan 2014",
       "value": "COLES ONLINE",
     },
-    Object {
+    {
       "from": "14 Feb 2000",
       "to": "19 Jan 2014",
       "value": "COLES ONLINE",
     },
-    Object {
+    {
       "from": "14 Feb 2000",
       "to": "29 Oct 2007",
       "value": "COLES ONLINE",
     },
-    Object {
+    {
       "from": "14 Feb 2000",
       "to": "29 Oct 2001",
       "value": "LET'S EAT",
     },
-    Object {
+    {
       "from": "14 Feb 2000",
       "to": "02 Aug 2001",
       "value": "LET'S EAT",
     },
-    Object {
+    {
       "from": "14 Feb 2000",
       "to": "08 Jan 2002",
       "value": "LET'S EAT",
     },
-    Object {
+    {
       "from": "14 Feb 2000",
       "to": "15 Jan 2002",
       "value": "LET'S EAT",
     },
-    Object {
+    {
       "from": "14 Feb 2000",
       "to": "03 Dec 2001",
       "value": "LET 'S EAT",
     },
-    Object {
+    {
       "from": "14 Feb 2000",
       "to": "20 Aug 2001",
       "value": "CARNARVON FURNITURE & ELECTRICAL",
     },
-    Object {
+    {
       "from": "14 Feb 2000",
       "to": "20 Aug 2001",
       "value": "MARGARET RIVER FURNITURE & ELECTRICAL",
     },
-    Object {
+    {
       "from": "14 Feb 2000",
       "to": "12 Mar 2002",
       "value": "CHARLIE CARTERS",
     },
-    Object {
+    {
       "from": "14 Feb 2000",
       "to": "20 Aug 2001",
       "value": "CHARLIE CARTERS COUNTRY STORES",
     },
-    Object {
+    {
       "from": "14 Feb 2000",
       "to": "09 Aug 2001",
       "value": "XTRA VALU FOOD DISCOUNTERS",
     },
-    Object {
+    {
       "from": "14 Feb 2000",
       "to": "25 Nov 2002",
       "value": "SEAVIEW LIQUOR STORE",
     },
-    Object {
+    {
       "from": "14 Feb 2000",
       "to": "25 Jan 2001",
       "value": "CANDY LANE CHOCOLATES",
     },
-    Object {
+    {
       "from": "14 Feb 2000",
       "to": "12 May 2001",
       "value": "LET'S EAT",
     },
-    Object {
+    {
       "from": "14 Feb 2000",
       "to": "11 Feb 2003",
       "value": "COLES EXPRESS",
     },
-    Object {
+    {
       "from": "14 Feb 2000",
       "to": "07 Feb 2003",
       "value": "COLES EXPRESS",
     },
-    Object {
+    {
       "from": "14 Feb 2000",
       "to": "23 Apr 2003",
       "value": "COLES EXPRESS",
     },
-    Object {
+    {
       "from": "14 Feb 2000",
       "to": "09 Jan 2003",
       "value": "COLES EXPRESS",
     },
-    Object {
+    {
       "from": "14 Feb 2000",
       "to": "06 Dec 2002",
       "value": "COLES EXPRESS",
     },
-    Object {
+    {
       "from": "14 Feb 2000",
       "to": "22 Aug 2002",
       "value": "PICK ' N ' PAY",
     },
-    Object {
+    {
       "from": "14 Feb 2000",
       "to": "29 Nov 2000",
       "value": "HYPERAMA",
     },
-    Object {
+    {
       "from": "14 Feb 2000",
       "to": "10 Aug 2000",
       "value": "CANDY LANE CHOCOLATES",
     },
-    Object {
+    {
       "from": "14 Feb 2000",
       "to": "06 Aug 2001",
       "value": "GOODWAYS",
     },
-    Object {
+    {
       "from": "14 Feb 2000",
       "to": "29 Dec 2016",
       "value": "COLES SUPERMARKETS",
     },
-    Object {
+    {
       "from": "",
       "to": "",
-      "value": "From 1 November 2023, ABN Lookup will not display trading names and will only display registered business names. For more information, click help.",
+      "value": "From 1 November 2025, ABN Lookup will not display trading names and will only display registered business names. For more information, click help.",
     },
   ],
-  "entityName": Array [
-    Object {
+  "entityName": [
+    {
       "from": "14 Feb 2000",
       "to": "(current)",
       "value": "COLES SUPERMARKETS AUSTRALIA PTY LTD",
     },
   ],
-  "entityType": Array [
-    Object {
+  "entityType": [
+    {
       "from": "",
       "to": "",
       "value": "Australian Private Company",
     },
   ],
-  "gstStatus": Array [
-    Object {
+  "gstStatus": [
+    {
       "from": "01 Jul 2000",
       "to": "(current)",
       "value": "Registered",
     },
   ],
-  "tradingName": Array [
-    Object {
+  "tradingName": [
+    {
       "from": "14 Feb 2000",
       "to": "(current)",
       "value": "COLES SUPERMARKETS",
     },
-    Object {
+    {
       "from": "14 Feb 2000",
       "to": "(current)",
       "value": "COLES EXPRESS",
     },
-    Object {
+    {
       "from": "14 Feb 2000",
       "to": "(current)",
       "value": "COLES ONLINE",
     },
-    Object {
+    {
       "from": "",
       "to": "",
       "value": "004 189 708 View record on the ASIC website",
     },
-    Object {
+    {
       "from": "",
       "to": "",
       "value": "Not entitled to receive tax deductible gifts",
@@ -748,1423 +758,1438 @@ Object {
 `;
 
 exports[`History tests should get histories data match with snapshots - 48 123 123 124 1`] = `
-Object {
-  "Replaces the following ABN(s) from 01 Nov 1999": Array [
-    Object {
+{
+  "Replaces the following ABN(s) from 01 Nov 1999": [
+    {
       "from": "",
       "to": "",
       "value": "61 814 236 264",
     },
   ],
-  "abnStatus": Array [
-    Object {
+  "abnStatus": [
+    {
       "from": "01 Nov 1999",
       "to": "(current)",
       "value": "Active",
     },
   ],
-  "businessLocation": Array [
-    Object {
-      "from": "04 Jan 2017",
+  "businessLocation": [
+    {
+      "from": "27 May 2022",
       "to": "(current)",
       "value": "NSW 2000",
     },
-    Object {
+    {
+      "from": "04 Jan 2017",
+      "to": "27 May 2022",
+      "value": "NSW 2000",
+    },
+    {
       "from": "12 Sep 2014",
       "to": "04 Jan 2017",
       "value": "NSW 2000",
     },
-    Object {
+    {
       "from": "30 Nov 2009",
       "to": "12 Sep 2014",
       "value": "NSW 2000",
     },
-    Object {
+    {
       "from": "20 Mar 2009",
       "to": "30 Nov 2009",
       "value": "NSW 2000",
     },
-    Object {
+    {
       "from": "16 Aug 2007",
       "to": "20 Mar 2009",
       "value": "NSW 2000",
     },
-    Object {
+    {
       "from": "04 Oct 2006",
       "to": "16 Aug 2007",
       "value": "NSW 2150",
     },
-    Object {
+    {
       "from": "31 Aug 2004",
       "to": "04 Oct 2006",
       "value": "NSW 2000",
     },
-    Object {
+    {
       "from": "07 Feb 2000",
       "to": "31 Aug 2004",
       "value": "NSW 2000",
     },
   ],
-  "businessName": Array [
-    Object {
+  "businessName": [
+    {
+      "from": "09 Jun 2023",
+      "to": "(current)",
+      "value": "ACROSS THE NULLARBOR",
+    },
+    {
+      "from": "08 Jan 2022",
+      "to": "(current)",
+      "value": "Unloan",
+    },
+    {
       "from": "25 May 2021",
       "to": "(current)",
       "value": "COMMINSURE",
     },
-    Object {
+    {
       "from": "25 May 2021",
       "to": "(current)",
       "value": "COMMONWEALTH FINANCIAL SERVICES",
     },
-    Object {
+    {
       "from": "22 Mar 2013",
       "to": "(current)",
       "value": "BANKWEST",
     },
-    Object {
+    {
       "from": "16 May 2012",
       "to": "(current)",
       "value": "COMMONWEALTH AWARDS",
     },
-    Object {
+    {
       "from": "17 Nov 2010",
       "to": "(current)",
       "value": "COMMONWEALTH BANK GROUP",
     },
-    Object {
+    {
       "from": "03 Jun 2010",
       "to": "(current)",
       "value": "COMMONWEALTH FINANCIAL SERVICES",
     },
-    Object {
+    {
       "from": "17 May 2010",
       "to": "(current)",
       "value": "COMMONWEALTH PRIVATE BANK",
     },
-    Object {
+    {
       "from": "29 Mar 2010",
       "to": "(current)",
       "value": "CBA WOMEN IN FOCUS",
     },
-    Object {
+    {
       "from": "01 Oct 2009",
       "to": "(current)",
       "value": "WOMEN IN FOCUS",
     },
-    Object {
+    {
       "from": "26 Aug 2009",
       "to": "(current)",
       "value": "WOMEN IN FOCUS",
     },
-    Object {
+    {
       "from": "01 Oct 2004",
       "to": "(current)",
       "value": "COMMONWEALTH PRIVATE BANK",
     },
-    Object {
+    {
       "from": "15 Nov 2000",
       "to": "(current)",
       "value": "COMMONWEALTH BANK",
     },
-    Object {
+    {
       "from": "04 Oct 2000",
       "to": "(current)",
       "value": "COMMBANK",
     },
-    Object {
+    {
       "from": "20 Jun 2000",
       "to": "(current)",
       "value": "MY COMMBANK",
     },
-    Object {
+    {
       "from": "13 Jan 2000",
       "to": "(current)",
       "value": "WHICH BANK",
     },
-    Object {
+    {
       "from": "04 Jan 2000",
       "to": "(current)",
       "value": "DOLLARMITE",
     },
-    Object {
+    {
       "from": "01 Nov 1999",
       "to": "(current)",
       "value": "AUSTRALASIAN ASSET RESIDUAL MANAGEMENT",
     },
-    Object {
+    {
       "from": "01 Nov 1999",
       "to": "(current)",
       "value": "COLONIAL STATE BANK",
     },
-    Object {
+    {
       "from": "30 Oct 2019",
       "to": "01 May 2021",
       "value": "COMMONWEALTH FINANCIAL SERVICES",
     },
-    Object {
+    {
       "from": "08 Mar 2018",
       "to": "11 Feb 2020",
       "value": "Kessel Run Hair",
     },
-    Object {
+    {
       "from": "29 Apr 2015",
       "to": "13 Mar 2016",
       "value": "Etna pizzeria cafe",
     },
-    Object {
+    {
       "from": "26 Mar 2013",
       "to": "24 Mar 2016",
       "value": "BANKWEST",
     },
-    Object {
+    {
       "from": "22 Mar 2013",
       "to": "24 Mar 2016",
       "value": "BANKWEST",
     },
-    Object {
+    {
       "from": "22 Mar 2013",
       "to": "24 Mar 2016",
       "value": "BANKWEST",
     },
-    Object {
+    {
       "from": "22 Mar 2013",
       "to": "24 Mar 2016",
       "value": "BANKWEST",
     },
-    Object {
+    {
       "from": "22 Mar 2013",
       "to": "24 Mar 2016",
       "value": "BANKWEST",
     },
-    Object {
+    {
       "from": "29 Jun 2011",
       "to": "17 Feb 2021",
       "value": "COMMONWEALTH PRIVATE BANK",
     },
-    Object {
+    {
       "from": "07 Jun 2010",
       "to": "26 Jun 2018",
       "value": "COMMONWEALTH BANK",
     },
-    Object {
+    {
       "from": "03 Jun 2010",
       "to": "26 Jun 2018",
       "value": "COMMONWEALTH BANK",
     },
-    Object {
+    {
       "from": "02 Jun 2010",
       "to": "03 Feb 2021",
       "value": "COMMONWEALTH BANK",
     },
-    Object {
+    {
       "from": "01 Jun 2010",
       "to": "26 Jun 2018",
       "value": "COMMONWEALTH BANK",
     },
-    Object {
+    {
       "from": "12 Mar 2010",
       "to": "30 Jan 2016",
       "value": "CBA WOMEN IN FOCUS",
     },
-    Object {
+    {
       "from": "25 Feb 2010",
       "to": "28 Feb 2010",
       "value": "SPRINGVALE CAFE & FLORIST",
     },
-    Object {
+    {
       "from": "16 Sep 2009",
       "to": "16 Jun 2015",
       "value": "WOMEN IN FOCUS",
     },
-    Object {
+    {
       "from": "15 Sep 2009",
       "to": "09 Jun 2016",
       "value": "WOMEN IN FOCUS",
     },
-    Object {
+    {
       "from": "26 Aug 2009",
       "to": "09 Jun 2016",
       "value": "WOMEN IN FOCUS",
     },
-    Object {
+    {
       "from": "26 Aug 2009",
       "to": "15 Jun 2015",
       "value": "WOMEN IN FOCUS",
     },
-    Object {
+    {
       "from": "19 Jun 2009",
       "to": "05 Dec 2015",
       "value": "COLONIAL GEARED INVESTMENTS",
     },
-    Object {
+    {
       "from": "12 Jun 2009",
       "to": "05 Dec 2015",
       "value": "COLONIAL STATE BANK",
     },
-    Object {
+    {
       "from": "10 Jun 2009",
       "to": "05 Dec 2015",
       "value": "COLONIAL STATE BANK",
     },
-    Object {
+    {
       "from": "25 May 2009",
       "to": "10 Aug 2012",
       "value": "COLONIAL GEARED INVESTMENTS",
     },
-    Object {
+    {
       "from": "20 May 2009",
       "to": "20 May 2012",
       "value": "COLONIAL GEARED INVESTMENTS",
     },
-    Object {
+    {
       "from": "19 May 2009",
       "to": "04 Jun 2016",
       "value": "COLONIAL GEARED INVESTMENTS",
     },
-    Object {
+    {
       "from": "19 May 2009",
       "to": "31 Aug 2012",
       "value": "COLONIAL GEARED INVESTMENTS",
     },
-    Object {
+    {
       "from": "19 May 2009",
       "to": "24 Aug 2012",
       "value": "COLONIAL GEARED INVESTMENTS",
     },
-    Object {
+    {
       "from": "19 May 2009",
       "to": "25 May 2012",
       "value": "COLONIAL GEARED INVESTMENTS",
     },
-    Object {
+    {
       "from": "18 May 2009",
       "to": "06 Dec 2015",
       "value": "COLONIAL GEARED INVESTMENTS",
     },
-    Object {
+    {
       "from": "30 Apr 2009",
       "to": "21 Aug 2012",
       "value": "AUSTRALASIAN ASSET RESIDUAL MANAGEMENT",
     },
-    Object {
+    {
       "from": "12 Mar 2009",
       "to": "09 Dec 2015",
       "value": "COMMINVEST",
     },
-    Object {
+    {
       "from": "02 Jul 2007",
       "to": "13 Jan 2021",
       "value": "MORTGAGE INNOVATION CENTRE",
     },
-    Object {
+    {
       "from": "15 Dec 2006",
       "to": "25 Jan 2010",
       "value": "CBA FINANCIAL SERVICES",
     },
-    Object {
+    {
       "from": "16 Jun 2006",
       "to": "26 Jun 2006",
       "value": "ROYS CAKE SHOP",
     },
-    Object {
+    {
       "from": "14 Dec 2005",
       "to": "28 Feb 2010",
       "value": "THE NECROPOLIS",
     },
-    Object {
+    {
       "from": "14 Dec 2005",
       "to": "28 Feb 2010",
       "value": "THE NECROPOLIS SPRINGVALE",
     },
-    Object {
+    {
       "from": "13 Dec 2005",
       "to": "28 Jan 2010",
       "value": "SPRINGVALE BOTANICAL GARDENS",
     },
-    Object {
+    {
       "from": "07 Jan 2005",
       "to": "09 Apr 2008",
       "value": "COMMONWEALTH PRIVATE BANK",
     },
-    Object {
+    {
       "from": "17 Nov 2004",
       "to": "24 Dec 2007",
       "value": "COMMONWEALTH PRIVATE BANK",
     },
-    Object {
+    {
       "from": "16 Nov 2004",
       "to": "17 Nov 2010",
       "value": "COMMONWEALTH PRIVATE BANK",
     },
-    Object {
+    {
       "from": "14 Oct 2004",
       "to": "16 Dec 2020",
       "value": "COMMONWEALTH PRIVATE BANK",
     },
-    Object {
+    {
       "from": "13 Oct 2004",
       "to": "14 Dec 2010",
       "value": "COMMONWEALTH PRIVATE BANK",
     },
-    Object {
+    {
       "from": "01 Oct 2004",
       "to": "08 Mar 2011",
       "value": "COMMONWEALTH PRIVATE BANK",
     },
-    Object {
+    {
       "from": "01 Oct 2004",
       "to": "10 Apr 2010",
       "value": "COMMONWEALTH PRIVATE BANK",
     },
-    Object {
+    {
       "from": "29 Jun 2004",
       "to": "06 Aug 2007",
       "value": "COLONIAL FINANCIAL PLANNING",
     },
-    Object {
+    {
       "from": "15 May 2004",
       "to": "16 May 2007",
       "value": "COLONIAL FINANCIAL PLANNING",
     },
-    Object {
+    {
       "from": "10 May 2004",
       "to": "10 Sep 2010",
       "value": "COLONIAL FINANCIAL PLANNING",
     },
-    Object {
+    {
       "from": "07 May 2004",
       "to": "08 Jul 2010",
       "value": "COLONIAL FINANCIAL PLANNING",
     },
-    Object {
+    {
       "from": "06 May 2004",
       "to": "25 Jun 2018",
       "value": "MORTGAGE INNOVATION CENTRE",
     },
-    Object {
+    {
       "from": "04 May 2004",
       "to": "06 Aug 2010",
       "value": "COLONIAL FINANCIAL PLANNING",
     },
-    Object {
+    {
       "from": "19 Apr 2004",
       "to": "24 May 2010",
       "value": "MORTGAGE INNOVATION CENTRE",
     },
-    Object {
+    {
       "from": "02 Apr 2004",
       "to": "04 Jun 2007",
       "value": "MORTGAGE INNOVATION CENTRE",
     },
-    Object {
+    {
       "from": "30 Mar 2004",
       "to": "14 Jun 2016",
       "value": "MORTGAGE INNOVATION CENTRE",
     },
-    Object {
+    {
       "from": "29 Mar 2004",
       "to": "25 May 2016",
       "value": "QUEENSLAND MORTGAGE INNOVATION CENTRE",
     },
-    Object {
+    {
       "from": "29 Mar 2004",
       "to": "01 Feb 2016",
       "value": "MORTGAGE INNOVATION CENTRE",
     },
-    Object {
+    {
       "from": "29 Mar 2004",
       "to": "25 Jun 2010",
       "value": "MORTGAGE INNOVATION CENTRE",
     },
-    Object {
+    {
       "from": "29 Mar 2004",
       "to": "24 Jun 2007",
       "value": "MORTGAGE INNOVATION CENTRE",
     },
-    Object {
+    {
       "from": "22 Dec 2003",
       "to": "26 Jul 2007",
       "value": "COLONIAL FINANCIAL PLANNING",
     },
-    Object {
+    {
       "from": "17 Mar 2003",
       "to": "28 Nov 2007",
       "value": "COLONIAL FINANCIAL PLANNING",
     },
-    Object {
+    {
       "from": "30 Oct 2002",
       "to": "07 Jul 2009",
       "value": "COMMONWEALTH PRIVATE CLIENT SERVICES",
     },
-    Object {
+    {
       "from": "05 Jun 2002",
       "to": "08 Sep 2008",
       "value": "COMMBUSINESS",
     },
-    Object {
+    {
       "from": "27 May 2002",
       "to": "12 May 2005",
       "value": "COLONIALALIA",
     },
-    Object {
+    {
       "from": "27 May 2002",
       "to": "12 May 2005",
       "value": "COMMCALIA",
     },
-    Object {
+    {
       "from": "10 May 2002",
       "to": "19 May 2005",
       "value": "BE YOUR OWN BANK MANAGER",
     },
-    Object {
+    {
       "from": "18 Apr 2002",
       "to": "02 Nov 2011",
       "value": "COMMONWEALTH AWARDS",
     },
-    Object {
+    {
       "from": "01 Mar 2002",
       "to": "08 Jun 2011",
       "value": "DOLLARS AND CENTS",
     },
-    Object {
+    {
       "from": "25 Feb 2002",
       "to": "27 May 2008",
       "value": "COMMFIRST",
     },
-    Object {
+    {
       "from": "15 Feb 2002",
       "to": "31 Jan 2005",
       "value": "PREMIUM FINANCIAL SERVICES",
     },
-    Object {
+    {
       "from": "22 Nov 2001",
       "to": "02 Dec 2004",
       "value": "COLONIAL ONLINE",
     },
-    Object {
+    {
       "from": "19 Nov 2001",
       "to": "19 Nov 2010",
       "value": "COMMINVEST NETSUPER",
     },
-    Object {
+    {
       "from": "25 Oct 2001",
       "to": "26 Oct 2004",
       "value": "TERM DEPOSIT EXPRESS",
     },
-    Object {
+    {
       "from": "17 Oct 2001",
       "to": "22 Nov 2010",
       "value": "COMMINVEST NETSUPER",
     },
-    Object {
+    {
       "from": "16 Oct 2001",
       "to": "04 Jun 2016",
       "value": "COMMINVEST NETSUPER",
     },
-    Object {
+    {
       "from": "10 Oct 2001",
       "to": "10 Dec 2007",
       "value": "COMMINVEST NETSUPER",
     },
-    Object {
+    {
       "from": "03 Oct 2001",
       "to": "08 Feb 2011",
       "value": "COMMINVEST NETSUPER",
     },
-    Object {
+    {
       "from": "03 Oct 2001",
       "to": "01 Feb 2011",
       "value": "COMMINVEST NETSUPER",
     },
-    Object {
+    {
       "from": "03 Oct 2001",
       "to": "22 Jan 2011",
       "value": "COMMINVEST NETSUPER",
     },
-    Object {
+    {
       "from": "03 Oct 2001",
       "to": "12 Dec 2010",
       "value": "COMMINVEST NETSUPER",
     },
-    Object {
+    {
       "from": "03 Oct 2001",
       "to": "16 Feb 2009",
       "value": "COMMINVEST NETSUPER",
     },
-    Object {
+    {
       "from": "27 Sep 2001",
       "to": "14 Sep 2004",
       "value": "GOLDPRIVILEGE",
     },
-    Object {
+    {
       "from": "24 Sep 2001",
       "to": "15 Oct 2004",
       "value": "CBAIB",
     },
-    Object {
+    {
       "from": "05 Sep 2001",
       "to": "14 Dec 2007",
       "value": "COMMGATE",
     },
-    Object {
+    {
       "from": "30 Aug 2001",
       "to": "07 Dec 2010",
       "value": "TESTDRIVENETBANK",
     },
-    Object {
+    {
       "from": "24 Aug 2001",
       "to": "29 Nov 2007",
       "value": "COMMHEALTH",
     },
-    Object {
+    {
       "from": "27 Jul 2001",
       "to": "09 Dec 2015",
       "value": "COLONIAL BANK",
     },
-    Object {
+    {
       "from": "27 Jul 2001",
       "to": "09 Dec 2015",
       "value": "COLONIAL STATE BANK",
     },
-    Object {
+    {
       "from": "12 Jul 2001",
       "to": "15 Oct 2010",
       "value": "COMMWEALTH DOLLARSANDSENSE",
     },
-    Object {
+    {
       "from": "12 Jul 2001",
       "to": "13 Jul 2004",
       "value": "COMMWEALTH ADVISERS",
     },
-    Object {
+    {
       "from": "18 Jun 2001",
       "to": "20 Sep 2007",
       "value": "COMMWEALTH EXECUTIVEONLINE",
     },
-    Object {
+    {
       "from": "18 Jun 2001",
       "to": "20 Sep 2007",
       "value": "COMMWEALTH PREMIUMONLINE",
     },
-    Object {
+    {
       "from": "08 Jun 2001",
       "to": "13 Sep 2007",
       "value": "ADVISORYONLINE",
     },
-    Object {
+    {
       "from": "08 Jun 2001",
       "to": "13 Sep 2007",
       "value": "PRIVATEONLINE",
     },
-    Object {
+    {
       "from": "04 Jun 2001",
       "to": "26 Oct 2004",
       "value": "COLONIAL ONLINE",
     },
-    Object {
+    {
       "from": "01 Jun 2001",
       "to": "01 Jun 2010",
       "value": "MY COMMBANK",
     },
-    Object {
+    {
       "from": "28 May 2001",
       "to": "17 Dec 2007",
       "value": "COMSEC ADVISORY",
     },
-    Object {
+    {
       "from": "28 May 2001",
       "to": "30 Aug 2007",
       "value": "CBAGPP",
     },
-    Object {
+    {
       "from": "27 May 2001",
       "to": "16 Aug 2004",
       "value": "COLONIAL ONLINE",
     },
-    Object {
+    {
       "from": "24 May 2001",
       "to": "24 Jul 2007",
       "value": "COMSEC ADVISORY",
     },
-    Object {
+    {
       "from": "24 May 2001",
       "to": "07 May 2004",
       "value": "COMMWEALTH",
     },
-    Object {
+    {
       "from": "02 May 2001",
       "to": "06 Aug 2010",
       "value": "MY ONLINE SUMMARY",
     },
-    Object {
+    {
       "from": "02 May 2001",
       "to": "27 Apr 2004",
       "value": "MYCOMMWEALTH",
     },
-    Object {
+    {
       "from": "20 Apr 2001",
       "to": "20 Apr 2004",
       "value": "COMMWEALTH",
     },
-    Object {
+    {
       "from": "09 Apr 2001",
       "to": "30 May 2001",
       "value": "COMMSEC ADVISORY",
     },
-    Object {
+    {
       "from": "06 Apr 2001",
       "to": "14 Jul 2010",
       "value": "MY MONEY SUMMARY",
     },
-    Object {
+    {
       "from": "22 Mar 2001",
       "to": "16 Mar 2004",
       "value": "COMMWEALTH GLOBAL",
     },
-    Object {
+    {
       "from": "20 Mar 2001",
       "to": "26 Apr 2010",
       "value": "COMMONWEALTH RESEARCH",
     },
-    Object {
+    {
       "from": "20 Mar 2001",
       "to": "15 Mar 2004",
       "value": "COMMCAPITAL",
     },
-    Object {
+    {
       "from": "06 Mar 2001",
       "to": "09 Jun 2010",
       "value": "CASH MAIL",
     },
-    Object {
+    {
       "from": "06 Mar 2001",
       "to": "07 Mar 2004",
       "value": "COMMWEALTH CASH",
     },
-    Object {
+    {
       "from": "01 Mar 2001",
       "to": "19 May 2016",
       "value": "COMMWEALTH GROUP",
     },
-    Object {
+    {
       "from": "01 Mar 2001",
       "to": "20 Jul 2010",
       "value": "COMMWEALTH",
     },
-    Object {
+    {
       "from": "01 Mar 2001",
       "to": "13 Jul 2009",
       "value": "COMMWEALTH",
     },
-    Object {
+    {
       "from": "01 Mar 2001",
       "to": "21 Mar 2004",
       "value": "COMMWEALTH GROUP",
     },
-    Object {
+    {
       "from": "01 Mar 2001",
       "to": "15 Mar 2004",
       "value": "COMMWEALTH",
     },
-    Object {
+    {
       "from": "28 Feb 2001",
       "to": "28 Feb 2010",
       "value": "COMMONWEALTH RESEARCH",
     },
-    Object {
+    {
       "from": "26 Feb 2001",
       "to": "26 Apr 2007",
       "value": "COMMONWEALTH RESEARCH",
     },
-    Object {
+    {
       "from": "15 Feb 2001",
       "to": "01 Mar 2004",
       "value": "COMMDIRECT",
     },
-    Object {
+    {
       "from": "13 Feb 2001",
       "to": "01 Mar 2004",
       "value": "COMMWEALTH GROUP",
     },
-    Object {
+    {
       "from": "31 Jan 2001",
       "to": "11 Jul 2010",
       "value": "COMMONWEALTH RESEARCH",
     },
-    Object {
+    {
       "from": "31 Jan 2001",
       "to": "01 Jul 2010",
       "value": "COMMONWEALTH RESEARCH",
     },
-    Object {
+    {
       "from": "31 Jan 2001",
       "to": "25 Jun 2010",
       "value": "COMMONWEALTH RESEARCH",
     },
-    Object {
+    {
       "from": "31 Jan 2001",
       "to": "23 Jun 2010",
       "value": "COMMONWEALTH RESEARCH",
     },
-    Object {
+    {
       "from": "31 Jan 2001",
       "to": "28 Sep 2009",
       "value": "COMMONWEALTH RESEARCH",
     },
-    Object {
+    {
       "from": "31 Jan 2001",
       "to": "01 Feb 2004",
       "value": "COMMWEALTH PROPERTY",
     },
-    Object {
+    {
       "from": "31 Jan 2001",
       "to": "19 Aug 2002",
       "value": "COMMONWEALTH RESEARCH",
     },
-    Object {
+    {
       "from": "23 Jan 2001",
       "to": "27 Apr 2010",
       "value": "COMMADVISER",
     },
-    Object {
+    {
       "from": "23 Jan 2001",
       "to": "27 Apr 2010",
       "value": "COMMPLANNER",
     },
-    Object {
+    {
       "from": "23 Jan 2001",
       "to": "24 Jan 2004",
       "value": "COMMWEALTHPLANNING",
     },
-    Object {
+    {
       "from": "23 Nov 2000",
       "to": "25 Jan 2010",
       "value": "MOBILEBANK",
     },
-    Object {
+    {
       "from": "03 Nov 2000",
       "to": "04 Nov 2003",
       "value": "PAYSELECT",
     },
-    Object {
+    {
       "from": "01 Nov 2000",
       "to": "13 Dec 2015",
       "value": "COMMBANK",
     },
-    Object {
+    {
       "from": "01 Nov 2000",
       "to": "13 Dec 2015",
       "value": "COMMONWEALTH BANK",
     },
-    Object {
+    {
       "from": "01 Nov 2000",
       "to": "13 Dec 2015",
       "value": "COMMONWEALTH BANK GROUP",
     },
-    Object {
+    {
       "from": "24 Oct 2000",
       "to": "25 Oct 2006",
       "value": "COMMONWEALTH BANK",
     },
-    Object {
+    {
       "from": "17 Oct 2000",
       "to": "14 Dec 2015",
       "value": "COMMBANK",
     },
-    Object {
+    {
       "from": "17 Oct 2000",
       "to": "14 Dec 2015",
       "value": "COMMONWEALTH BANK",
     },
-    Object {
+    {
       "from": "17 Oct 2000",
       "to": "13 Dec 2015",
       "value": "COMMONWEALTH BANK GROUP",
     },
-    Object {
+    {
       "from": "17 Oct 2000",
       "to": "13 Dec 2015",
       "value": "COMMONWEALTH BANK GROUP",
     },
-    Object {
+    {
       "from": "06 Oct 2000",
       "to": "07 Oct 2006",
       "value": "COMMBANK",
     },
-    Object {
+    {
       "from": "03 Oct 2000",
       "to": "24 Mar 2021",
       "value": "COMMONWEALTH BANK",
     },
-    Object {
+    {
       "from": "01 Oct 2000",
       "to": "28 Jan 2010",
       "value": "MOBILEBANK",
     },
-    Object {
+    {
       "from": "14 Sep 2000",
       "to": "13 Dec 2015",
       "value": "COMMONWEALTH BANK GROUP",
     },
-    Object {
+    {
       "from": "14 Sep 2000",
       "to": "03 Feb 2012",
       "value": "COMMBANK",
     },
-    Object {
+    {
       "from": "14 Sep 2000",
       "to": "03 Feb 2012",
       "value": "COMMONWEALTH BANK GROUP",
     },
-    Object {
+    {
       "from": "14 Sep 2000",
       "to": "01 Mar 2010",
       "value": "COMMONWEALTH BANK",
     },
-    Object {
+    {
       "from": "14 Sep 2000",
       "to": "28 Feb 2010",
       "value": "COMMBANK",
     },
-    Object {
+    {
       "from": "14 Sep 2000",
       "to": "16 Feb 2010",
       "value": "COMMONWEALTH BANK GROUP",
     },
-    Object {
+    {
       "from": "14 Sep 2000",
       "to": "17 Jan 2010",
       "value": "COMMONWEALTH BANK",
     },
-    Object {
+    {
       "from": "14 Sep 2000",
       "to": "12 Jan 2010",
       "value": "COMMBANK",
     },
-    Object {
+    {
       "from": "14 Sep 2000",
       "to": "12 Jan 2010",
       "value": "COMMONWEALTH BANK GROUP",
     },
-    Object {
+    {
       "from": "14 Sep 2000",
       "to": "13 Dec 2009",
       "value": "COMMBANK",
     },
-    Object {
+    {
       "from": "14 Sep 2000",
       "to": "29 Mar 2007",
       "value": "COMMONWEALTH BANK",
     },
-    Object {
+    {
       "from": "14 Sep 2000",
       "to": "29 Mar 2007",
       "value": "COMMONWEALTH BANK GROUP",
     },
-    Object {
+    {
       "from": "30 Aug 2000",
       "to": "31 Aug 2003",
       "value": "TRADEZONE",
     },
-    Object {
+    {
       "from": "21 Aug 2000",
       "to": "20 Aug 2003",
       "value": "ECX",
     },
-    Object {
+    {
       "from": "21 Aug 2000",
       "to": "20 Aug 2003",
       "value": "NZONE",
     },
-    Object {
+    {
       "from": "18 Aug 2000",
       "to": "18 Aug 2003",
       "value": "ECOMMXCHANGE",
     },
-    Object {
+    {
       "from": "26 Jul 2000",
       "to": "31 Jul 2003",
       "value": "EZY AWARDS",
     },
-    Object {
+    {
       "from": "07 Jul 2000",
       "to": "10 Jul 2003",
       "value": "COMMGROUP",
     },
-    Object {
+    {
       "from": "06 Jul 2000",
       "to": "06 Jul 2003",
       "value": "CBA COMM SUPPLY",
     },
-    Object {
+    {
       "from": "16 Jun 2000",
       "to": "27 May 2003",
       "value": "MAKING E HAPPEN",
     },
-    Object {
+    {
       "from": "09 Jun 2000",
       "to": "14 Sep 2006",
       "value": "COMMBUY",
     },
-    Object {
+    {
       "from": "09 Jun 2000",
       "to": "14 Sep 2006",
       "value": "COMMSELL",
     },
-    Object {
+    {
       "from": "01 Jun 2000",
       "to": "10 Sep 2009",
       "value": "CBA MAKING IT HAPPEN",
     },
-    Object {
+    {
       "from": "01 Jun 2000",
       "to": "10 Sep 2009",
       "value": "COMMPAY",
     },
-    Object {
+    {
       "from": "01 Jun 2000",
       "to": "10 Sep 2009",
       "value": "QUICKLINE",
     },
-    Object {
+    {
       "from": "22 May 2000",
       "to": "16 Mar 2012",
       "value": "AUSTRALIAN NETBANK.COM.AU",
     },
-    Object {
+    {
       "from": "03 Apr 2000",
       "to": "06 Jul 2006",
       "value": "MAKING MONEY HAPPEN",
     },
-    Object {
+    {
       "from": "17 Mar 2000",
       "to": "22 Mar 2003",
       "value": "BANK PATH",
     },
-    Object {
+    {
       "from": "17 Mar 2000",
       "to": "22 Mar 2003",
       "value": "CAR PATH",
     },
-    Object {
+    {
       "from": "17 Mar 2000",
       "to": "21 Mar 2003",
       "value": "INVESTOR PATH",
     },
-    Object {
+    {
       "from": "17 Mar 2000",
       "to": "21 Mar 2003",
       "value": "LOAN PATH",
     },
-    Object {
+    {
       "from": "17 Mar 2000",
       "to": "21 Mar 2003",
       "value": "WEALTH PATH",
     },
-    Object {
+    {
       "from": "06 Mar 2000",
       "to": "07 Mar 2009",
       "value": "CUSTOMER DIRECT",
     },
-    Object {
+    {
       "from": "06 Mar 2000",
       "to": "08 Mar 2003",
       "value": "INVESTMENT PLACE",
     },
-    Object {
+    {
       "from": "07 Feb 2000",
       "to": "07 Feb 2009",
       "value": "CLUB AUSTRALIA",
     },
-    Object {
+    {
       "from": "03 Feb 2000",
       "to": "06 Feb 2003",
       "value": "VAULT",
     },
-    Object {
+    {
       "from": "31 Jan 2000",
       "to": "08 Apr 2009",
       "value": "COMMLOAN",
     },
-    Object {
+    {
       "from": "31 Jan 2000",
       "to": "08 Apr 2009",
       "value": "ECOMMLOAN",
     },
-    Object {
+    {
       "from": "31 Jan 2000",
       "to": "08 Apr 2009",
       "value": "E-PROCESS",
     },
-    Object {
+    {
       "from": "31 Jan 2000",
       "to": "08 Apr 2009",
       "value": "LOANPROCESS",
     },
-    Object {
+    {
       "from": "31 Jan 2000",
       "to": "08 Apr 2009",
       "value": "LOANSERV",
     },
-    Object {
+    {
       "from": "18 Jan 2000",
       "to": "16 Mar 2009",
       "value": "VIP BANKING",
     },
-    Object {
+    {
       "from": "17 Jan 2000",
       "to": "21 Apr 2009",
       "value": "BACK OFFICE PROCESSING",
     },
-    Object {
+    {
       "from": "11 Jan 2000",
       "to": "12 Dec 2002",
       "value": "VAULT",
     },
-    Object {
+    {
       "from": "06 Jan 2000",
       "to": "16 Mar 2009",
       "value": "EXECUTIVE BANKING",
     },
-    Object {
+    {
       "from": "06 Jan 2000",
       "to": "16 Mar 2009",
       "value": "PRIVATE BANKING",
     },
-    Object {
+    {
       "from": "22 Dec 1999",
       "to": "10 Feb 2003",
       "value": "ECOMMNETBANK",
     },
-    Object {
+    {
       "from": "22 Dec 1999",
       "to": "10 Feb 2000",
       "value": "ECCMMNETBANK",
     },
-    Object {
+    {
       "from": "10 Dec 1999",
       "to": "16 Mar 2009",
       "value": "ECOMMCORPORATE",
     },
-    Object {
+    {
       "from": "03 Dec 1999",
       "to": "04 Feb 2009",
       "value": "COLONIAL BANK",
     },
-    Object {
+    {
       "from": "03 Dec 1999",
       "to": "04 Feb 2009",
       "value": "COLONIAL ONE",
     },
-    Object {
+    {
       "from": "12 Nov 1999",
       "to": "31 Oct 2002",
       "value": "ECOMMSUPPLY",
     },
-    Object {
+    {
       "from": "01 Nov 1999",
       "to": "11 Mar 2021",
       "value": "AUSTRALIAN BANK",
     },
-    Object {
+    {
       "from": "01 Nov 1999",
       "to": "13 Dec 2015",
       "value": "MOBILEBANK",
     },
-    Object {
+    {
       "from": "01 Nov 1999",
       "to": "11 Dec 2015",
       "value": "MOBILEBANK",
     },
-    Object {
+    {
       "from": "01 Nov 1999",
       "to": "28 Nov 2011",
       "value": "COLONIAL ONE",
     },
-    Object {
+    {
       "from": "01 Nov 1999",
       "to": "25 Jan 2011",
       "value": "AUSTRALASIAN ASSET RESIDUAL MANAGEMENT",
     },
-    Object {
+    {
       "from": "01 Nov 1999",
       "to": "01 Dec 2010",
       "value": "AUSTRALASIAN ASSET RESIDUAL MANAGEMENT",
     },
-    Object {
+    {
       "from": "01 Nov 1999",
       "to": "10 Nov 2008",
       "value": "COLONIAL STATE BANK",
     },
-    Object {
+    {
       "from": "01 Nov 1999",
       "to": "09 Oct 2008",
       "value": "COLONIAL BANK",
     },
-    Object {
+    {
       "from": "01 Nov 1999",
       "to": "08 Oct 2007",
       "value": "AUSTRALASIAN ASSET RESIDUAL MANAGEMENT",
     },
-    Object {
+    {
       "from": "01 Nov 1999",
       "to": "05 Apr 2007",
       "value": "COMMONWEALTH FINANCIAL PLANNING",
     },
-    Object {
+    {
       "from": "01 Nov 1999",
       "to": "12 Dec 2006",
       "value": "COLONIAL STATE BANK",
     },
-    Object {
+    {
       "from": "01 Nov 1999",
       "to": "07 Jul 2005",
       "value": "COMMONWEALTH INVESTMENT MANAGEMENT",
     },
-    Object {
+    {
       "from": "01 Nov 1999",
       "to": "08 Jan 2002",
       "value": "AUSTRALASIAN ASSET RESIDUAL MANAGEMENT",
     },
-    Object {
+    {
       "from": "01 Nov 1999",
       "to": "17 Dec 1999",
       "value": "COMMONWEALTH EQUIPMENT FINANCE",
     },
-    Object {
+    {
       "from": "01 Nov 1999",
       "to": "28 Mar 2010",
       "value": "MOBILEBANK",
     },
-    Object {
+    {
       "from": "01 Nov 1999",
       "to": "26 Nov 2008",
       "value": "BANK BILLS DIRECT",
     },
-    Object {
+    {
       "from": "01 Nov 1999",
       "to": "16 Mar 2009",
       "value": "INSTITUTIONAL BANKING",
     },
-    Object {
+    {
       "from": "01 Nov 1999",
       "to": "16 Mar 2009",
       "value": "PREMIUM BANKING",
     },
-    Object {
+    {
       "from": "01 Nov 1999",
       "to": "23 Mar 2004",
       "value": "COMMSHOP",
     },
-    Object {
+    {
       "from": "01 Nov 1999",
       "to": "22 Jan 2001",
       "value": "HOMEKEY",
     },
-    Object {
+    {
       "from": "01 Nov 1999",
       "to": "02 Apr 2001",
       "value": "HOMEKEY",
     },
-    Object {
+    {
       "from": "01 Nov 1999",
       "to": "22 Mar 2001",
       "value": "HOMEKEY",
     },
-    Object {
+    {
       "from": "01 Nov 1999",
       "to": "28 May 2001",
       "value": "HOMEKEY",
     },
-    Object {
+    {
       "from": "01 Nov 1999",
       "to": "09 Aug 2001",
       "value": "HOMEKEY",
     },
-    Object {
+    {
       "from": "01 Nov 1999",
       "to": "05 Mar 2001",
       "value": "HOMEKEY",
     },
-    Object {
+    {
       "from": "01 Nov 1999",
       "to": "12 Dec 2000",
       "value": "HOMEKEY",
     },
-    Object {
+    {
       "from": "01 Nov 1999",
       "to": "22 Aug 2005",
       "value": "COMMONWEALTH FACTORS",
     },
-    Object {
+    {
       "from": "01 Nov 1999",
       "to": "30 Sep 2003",
       "value": "COMMONWEALTH FACTORS",
     },
-    Object {
+    {
       "from": "01 Nov 1999",
       "to": "19 Aug 2005",
       "value": "COMMONWEALTH FACTORS",
     },
-    Object {
+    {
       "from": "01 Nov 1999",
       "to": "08 Aug 2005",
       "value": "COMMONWEALTH FACTORS",
     },
-    Object {
+    {
       "from": "01 Nov 1999",
       "to": "22 Aug 2005",
       "value": "COMMONWEALTH FACTORS",
     },
-    Object {
+    {
       "from": "01 Nov 1999",
       "to": "08 Aug 2005",
       "value": "COMMONWEALTH FACTORS",
     },
-    Object {
+    {
       "from": "01 Nov 1999",
       "to": "19 Aug 2005",
       "value": "COMMONWEALTH FACTORS",
     },
-    Object {
+    {
       "from": "01 Nov 1999",
       "to": "18 Aug 2005",
       "value": "COMMONWEALTH FACTORS",
     },
-    Object {
+    {
       "from": "01 Nov 1999",
       "to": "14 Oct 2008",
       "value": "COLONIAL STATE BANK",
     },
-    Object {
+    {
       "from": "01 Nov 1999",
       "to": "18 Oct 2011",
       "value": "AUSTRALIAN BANK",
     },
-    Object {
+    {
       "from": "01 Nov 1999",
       "to": "17 Mar 2009",
       "value": "CUSTOMER DIRECT",
     },
-    Object {
+    {
       "from": "01 Nov 1999",
       "to": "28 Jul 2008",
       "value": "CUSTOMER DIRECT",
     },
-    Object {
+    {
       "from": "01 Nov 1999",
       "to": "17 Sep 2008",
       "value": "CUSTOMER DIRECT",
     },
-    Object {
+    {
       "from": "01 Nov 1999",
       "to": "05 Oct 2009",
       "value": "CUSTOMER DIRECT",
     },
-    Object {
+    {
       "from": "01 Nov 1999",
       "to": "06 Aug 2008",
       "value": "CUSTOMER DIRECT",
     },
-    Object {
+    {
       "from": "01 Nov 1999",
       "to": "04 Aug 2008",
       "value": "CUSTOMER DIRECT",
     },
-    Object {
+    {
       "from": "01 Nov 1999",
       "to": "28 Jul 2009",
       "value": "CUSTOMER DIRECT",
     },
-    Object {
+    {
       "from": "01 Nov 1999",
       "to": "23 Jun 2008",
       "value": "AUSTRALIAN BANK",
     },
-    Object {
+    {
       "from": "01 Nov 1999",
       "to": "17 Mar 2009",
       "value": "AUSTRALIAN BANK",
     },
-    Object {
+    {
       "from": "01 Nov 1999",
       "to": "25 Jun 2008",
       "value": "AUSTRALIAN BANK",
     },
-    Object {
+    {
       "from": "01 Nov 1999",
       "to": "09 Apr 2002",
       "value": "PRESTIGE BANKING",
     },
-    Object {
+    {
       "from": "01 Nov 1999",
       "to": "18 May 2009",
       "value": "AUSTRALIAN BANK",
     },
-    Object {
+    {
       "from": "01 Nov 1999",
       "to": "17 Mar 2008",
       "value": "AUSTRALIAN BANK A DIVISION OF COMMONWEALTH BANK",
     },
-    Object {
+    {
       "from": "01 Nov 1999",
       "to": "19 Jul 2010",
       "value": "MOBILEBANK",
     },
-    Object {
+    {
       "from": "01 Nov 1999",
       "to": "03 May 2010",
       "value": "MOBILEBANK",
     },
-    Object {
+    {
       "from": "01 Nov 1999",
       "to": "07 Jul 2010",
       "value": "MOBILEBANK",
     },
-    Object {
+    {
       "from": "",
       "to": "",
-      "value": "From 1 November 2023, ABN Lookup will not display trading names and will only display registered business names. For more information, click help.",
+      "value": "From 1 November 2025, ABN Lookup will not display trading names and will only display registered business names. For more information, click help.",
     },
   ],
-  "entityName": Array [
-    Object {
+  "entityName": [
+    {
       "from": "01 Nov 1999",
       "to": "(current)",
       "value": "COMMONWEALTH BANK OF AUSTRALIA",
     },
   ],
-  "entityType": Array [
-    Object {
+  "entityType": [
+    {
       "from": "",
       "to": "",
       "value": "Australian Public Company",
     },
   ],
-  "gstStatus": Array [
-    Object {
+  "gstStatus": [
+    {
       "from": "01 Jul 2000",
       "to": "(current)",
       "value": "Registered",
     },
   ],
-  "tradingName": Array [
-    Object {
+  "tradingName": [
+    {
       "from": "13 Sep 2000",
       "to": "(current)",
       "value": "COMMONWEALTH BANK OF AUSTRALIA",
     },
-    Object {
+    {
       "from": "20 Jul 2000",
       "to": "(current)",
       "value": "COMMOMWEALTH BANK OF AUSTRALIA",
     },
-    Object {
+    {
       "from": "",
       "to": "",
       "value": "123 123 124 View record on the ASIC website",
     },
-    Object {
+    {
       "from": "",
       "to": "",
       "value": "Not entitled to receive tax deductible gifts",
@@ -2174,54 +2199,54 @@ Object {
 `;
 
 exports[`History tests should get histories data match with snapshots - 75 846 826 742 1`] = `
-Object {
-  "abnStatus": Array [
-    Object {
+{
+  "abnStatus": [
+    {
       "from": "24 May 2000",
       "to": "(current)",
       "value": "Active",
     },
   ],
-  "businessLocation": Array [
-    Object {
+  "businessLocation": [
+    {
       "from": "24 May 2000",
       "to": "(current)",
       "value": "SA 5093",
     },
-    Object {
+    {
       "from": "",
       "to": "",
-      "value": "From 1 November 2023, ABN Lookup will not display trading names and will only display registered business names. For more information, click help.",
+      "value": "From 1 November 2025, ABN Lookup will not display trading names and will only display registered business names. For more information, click help.",
     },
   ],
-  "entityName": Array [
-    Object {
+  "entityName": [
+    {
       "from": "24 May 2000",
       "to": "(current)",
       "value": "COLES, ADRIAN STAN",
     },
-    Object {
+    {
       "from": "24 May 2000",
       "to": "24 May 2000",
       "value": "COLES, ADRIAN S",
     },
   ],
-  "entityType": Array [
-    Object {
+  "entityType": [
+    {
       "from": "",
       "to": "",
       "value": "Individual/Sole Trader",
     },
   ],
-  "gstStatus": Array [
-    Object {
+  "gstStatus": [
+    {
       "from": "",
       "to": "",
       "value": "No current or historical GST registrations",
     },
   ],
-  "tradingName": Array [
-    Object {
+  "tradingName": [
+    {
       "from": "24 May 2000",
       "to": "(current)",
       "value": "ADRIAN COLES",
@@ -2231,61 +2256,61 @@ Object {
 `;
 
 exports[`Lookup tests 45 004 189 708 should match with snapshot 1`] = `
-Object {
-  "businessNames": Array [
-    Object {
+{
+  "businessNames": [
+    {
       "businessName": "COLES LOCAL",
       "from": "15 Dec 2017",
     },
-    Object {
+    {
       "businessName": "MIX APPAREL",
       "from": "27 Apr 2012",
     },
-    Object {
+    {
       "businessName": "COLES CENTRAL",
       "from": "16 Feb 2004",
     },
-    Object {
+    {
       "businessName": "COLES ONLINE",
       "from": "14 Feb 2000",
     },
-    Object {
+    {
       "businessName": "COLES SUPERMARKETS",
       "from": "14 Feb 2000",
     },
-    Object {
+    {
       "businessName": "PICK 'N' PAY",
       "from": "14 Feb 2000",
     },
   ],
-  "details": Object {
-    "abnStatus": Object {
+  "details": {
+    "abnStatus": {
       "from": "14 Feb 2000",
       "status": "Active",
       "statusText": "Active from 14 Feb 2000",
     },
-    "businessLocation": Object {
+    "businessLocation": {
       "postcode": 3123,
       "state": "VIC",
     },
     "entityName": "COLES SUPERMARKETS AUSTRALIA PTY LTD",
     "entityType": "Australian Private Company",
-    "gstStatus": Object {
+    "gstStatus": {
       "from": "01 Jul 2000",
       "status": "Registered",
       "statusText": "Registered from 01 Jul 2000",
     },
   },
-  "tradingNames": Array [
-    Object {
+  "tradingNames": [
+    {
       "from": "14 Feb 2000",
       "tradingName": "COLES SUPERMARKETS",
     },
-    Object {
+    {
       "from": "14 Feb 2000",
       "tradingName": "COLES EXPRESS",
     },
-    Object {
+    {
       "from": "14 Feb 2000",
       "tradingName": "COLES ONLINE",
     },
@@ -2294,71 +2319,71 @@ Object {
 `;
 
 exports[`Lookup tests should retrieve ABN information for ACN: 006912563 , name: a , gst: registered 1`] = `
-Object {
-  "businessNames": Array [
-    Object {
+{
+  "businessNames": [
+    {
       "businessName": "TUBEPAK",
       "from": "13 Oct 2011",
     },
   ],
-  "details": Object {
-    "abnStatus": Object {
+  "details": {
+    "abnStatus": {
       "from": "03 Feb 2000",
       "status": "Active",
       "statusText": "Active from 03 Feb 2000",
     },
-    "businessLocation": Object {
+    "businessLocation": {
       "postcode": 3105,
       "state": "VIC",
     },
     "entityName": "SONOCO AUSTRALIA PTY. LTD.",
     "entityType": "Australian Private Company",
-    "gstStatus": Object {
+    "gstStatus": {
       "from": "01 Jul 2000",
       "status": "Registered",
       "statusText": "Registered from 01 Jul 2000",
     },
   },
-  "tradingNames": Array [],
+  "tradingNames": [],
 }
 `;
 
 exports[`Lookup tests should retrieve ABN information for ACN: 15 035 513 435 , name: BAROSSA GRAPE AND WINE ASSOCIATION INCORPORATED , gst: Registered 1`] = `
-Object {
-  "businessNames": Array [
-    Object {
+{
+  "businessNames": [
+    {
       "businessName": "Barossa Australia",
       "from": "29 Oct 2019",
     },
-    Object {
+    {
       "businessName": "Barossa Wine School",
       "from": "20 Oct 2018",
     },
-    Object {
+    {
       "businessName": "BGWA",
       "from": "08 Aug 2018",
     },
   ],
-  "details": Object {
-    "abnStatus": Object {
+  "details": {
+    "abnStatus": {
       "from": "06 Jul 2006",
       "status": "Active",
       "statusText": "Active from 06 Jul 2006",
     },
-    "businessLocation": Object {
+    "businessLocation": {
       "postcode": 5352,
       "state": "SA",
     },
-    "entityName": "BAROSSA GRAPE AND WINE ASSOCIATION INCORPORATED",
+    "entityName": "BAROSSA AUSTRALIA INCORPORATED",
     "entityType": "Other Incorporated Entity",
-    "gstStatus": Object {
+    "gstStatus": {
       "from": "01 Oct 2007",
       "status": "Registered",
       "statusText": "Registered from 01 Oct 2007",
     },
   },
-  "tradingNames": Array [
-    Object {
+  "tradingNames": [
+    {
       "from": "19 Sep 2008",
       "tradingName": "BAROSSA GRAPE AND WINE ASSOCIATION",
     },
@@ -2367,32 +2392,32 @@ Object {
 `;
 
 exports[`Lookup tests should retrieve ABN information for ACN: 35 460 201 920 , name: K.L CHOW & K.F HWANG & H WONG , gst: not registered 1`] = `
-Object {
-  "businessNames": Array [],
-  "details": Object {
-    "abnStatus": Object {
+{
+  "businessNames": [],
+  "details": {
+    "abnStatus": {
       "from": "23 Jun 2017",
       "status": "Cancelled",
       "statusText": "Cancelled from 23 Jun 2017",
     },
-    "businessLocation": Object {
+    "businessLocation": {
       "postcode": 6017,
       "state": "WA",
     },
     "entityName": "K.L CHOW & K.F HWANG & H WONG",
     "entityType": "Other Partnership",
-    "gstStatus": Object {
+    "gstStatus": {
       "from": undefined,
       "status": "unregistered",
       "statusText": "Not currently registered for GST",
     },
   },
-  "tradingNames": Array [
-    Object {
+  "tradingNames": [
+    {
       "from": "18 Aug 2011",
       "tradingName": "faith kolly Hwang.Hong peng kevin Wong. kok leong Chow",
     },
-    Object {
+    {
       "from": "18 Aug 2011",
       "tradingName": "CK2 cleaning services",
     },
@@ -2401,106 +2426,114 @@ Object {
 `;
 
 exports[`Lookup tests should retrieve ABN information for ACN: 48 123 123 124 , name: COMMONWEALTH BANK , gst: registered 1`] = `
-Object {
-  "businessNames": Array [
-    Object {
+{
+  "businessNames": [
+    {
+      "businessName": "ACROSS THE NULLARBOR",
+      "from": "09 Jun 2023",
+    },
+    {
+      "businessName": "Unloan",
+      "from": "08 Jan 2022",
+    },
+    {
       "businessName": "COMMINSURE",
       "from": "25 May 2021",
     },
-    Object {
+    {
       "businessName": "COMMONWEALTH FINANCIAL SERVICES",
       "from": "25 May 2021",
     },
-    Object {
+    {
       "businessName": "BANKWEST",
       "from": "22 Mar 2013",
     },
-    Object {
+    {
       "businessName": "COMMONWEALTH AWARDS",
       "from": "16 May 2012",
     },
-    Object {
+    {
       "businessName": "COMMONWEALTH BANK GROUP",
       "from": "17 Nov 2010",
     },
-    Object {
+    {
       "businessName": "COMMONWEALTH FINANCIAL SERVICES",
       "from": "03 Jun 2010",
     },
-    Object {
+    {
       "businessName": "COMMONWEALTH PRIVATE BANK",
       "from": "17 May 2010",
     },
-    Object {
+    {
       "businessName": "CBA WOMEN IN FOCUS",
       "from": "29 Mar 2010",
     },
-    Object {
+    {
       "businessName": "WOMEN IN FOCUS",
       "from": "01 Oct 2009",
     },
-    Object {
+    {
       "businessName": "WOMEN IN FOCUS",
       "from": "26 Aug 2009",
     },
-    Object {
+    {
       "businessName": "COMMONWEALTH PRIVATE BANK",
       "from": "01 Oct 2004",
     },
-    Object {
+    {
       "businessName": "COMMONWEALTH BANK",
       "from": "15 Nov 2000",
     },
-    Object {
+    {
       "businessName": "COMMBANK",
       "from": "04 Oct 2000",
     },
-    Object {
+    {
       "businessName": "MY COMMBANK",
       "from": "20 Jun 2000",
     },
-    Object {
+    {
       "businessName": "WHICH BANK",
       "from": "13 Jan 2000",
     },
-    Object {
+    {
       "businessName": "DOLLARMITE",
       "from": "04 Jan 2000",
     },
-    Object {
+    {
       "businessName": "AUSTRALASIAN ASSET RESIDUAL MANAGEMENT",
       "from": "01 Nov 1999",
     },
-    Object {
+    {
       "businessName": "COLONIAL STATE BANK",
       "from": "01 Nov 1999",
     },
   ],
-  "details": Object {
+  "details": {
     "Replaces:": "61 814 236 264",
-    "abnStatus": Object {
+    "abnStatus": {
       "from": "01 Nov 1999",
       "status": "Active",
       "statusText": "Active from 01 Nov 1999",
     },
-    "businessLocation": Object {
+    "businessLocation": {
       "postcode": 2000,
       "state": "NSW",
     },
     "entityName": "COMMONWEALTH BANK OF AUSTRALIA",
     "entityType": "Australian Public Company",
-    "gstStatus": Object {
+    "gstStatus": {
       "from": "01 Jul 2000",
       "status": "Registered",
       "statusText": "Registered from 01 Jul 2000",
     },
   },
-  "tradingNames": Array [
-    Object {
+  "tradingNames": [
+    {
       "from": "13 Sep 2000",
       "tradingName": "COMMONWEALTH BANK OF AUSTRALIA",
     },
-    Object {
+    {
       "from": "20 Jul 2000",
       "tradingName": "COMMOMWEALTH BANK OF AUSTRALIA",
     },
@@ -2509,28 +2542,28 @@ Object {
 `;
 
 exports[`Lookup tests should retrieve ABN information for ACN: 75 846 826 742 , name: COLES, ADRIAN STAN , gst: Not currently registered for GST 1`] = `
-Object {
-  "businessNames": Array [],
-  "details": Object {
-    "abnStatus": Object {
+{
+  "businessNames": [],
+  "details": {
+    "abnStatus": {
       "from": "24 May 2000",
       "status": "Active",
       "statusText": "Active from 24 May 2000",
     },
-    "businessLocation": Object {
+    "businessLocation": {
       "postcode": 5093,
       "state": "SA",
     },
     "entityName": "COLES, ADRIAN STAN",
     "entityType": "Individual/Sole Trader",
-    "gstStatus": Object {
+    "gstStatus": {
       "from": undefined,
       "status": "unregistered",
       "statusText": "Not currently registered for GST",
     },
   },
-  "tradingNames": Array [
-    Object {
+  "tradingNames": [
+    {
       "from": "24 May 2000",
       "tradingName": "ADRIAN COLES",
     },
@@ -2539,731 +2572,731 @@ Object {
 `;
 
 exports[`searchActive() should get the list company match with snapshot of 'Racing' 1`] = `
-Array [
-  Object {
+[
+  {
+    "abn": "54 831 087 041",
+    "businessLocation": {
+      "postcode": 7310,
+      "state": "TAS",
+    },
+    "name": "LIMITED RACING",
+    "type": "Business Name",
+  },
+  {
+    "abn": "29 646 766 752",
+    "businessLocation": {
+      "postcode": 4225,
+      "state": "QLD",
+    },
+    "name": "MR RACING PTY LTD",
+    "type": "Entity Name",
+  },
+  {
     "abn": "49 104 883 267",
-    "businessLocation": Object {
+    "businessLocation": {
       "postcode": 3008,
       "state": "VIC",
     },
     "name": "RACING.COM PTY LTD",
     "type": "Entity Name",
   },
-  Object {
+  {
     "abn": "32 080 959 495",
-    "businessLocation": Object {
+    "businessLocation": {
       "postcode": 2000,
       "state": "NSW",
     },
     "name": "RACINGCORP PTY LIMITED",
     "type": "Entity Name",
   },
-  Object {
+  {
+    "abn": "55 643 473 376",
+    "businessLocation": {
+      "postcode": 3008,
+      "state": "VIC",
+    },
+    "name": "Racing.com",
+    "type": "Business Name",
+  },
+  {
     "abn": "54 625 373 042",
-    "businessLocation": Object {
+    "businessLocation": {
       "postcode": 4118,
       "state": "QLD",
     },
     "name": "TA2 RACING PTY LTD",
     "type": "Entity Name",
   },
-  Object {
-    "abn": "85 158 283 905",
-    "businessLocation": Object {
-      "postcode": 5168,
-      "state": "SA",
+  {
+    "abn": "67 451 370 261",
+    "businessLocation": {
+      "postcode": 2170,
+      "state": "NSW",
     },
-    "name": "'REV'IT RACING",
+    "name": "aka racing",
     "type": "Business Name",
   },
-  Object {
+  {
     "abn": "77 126 337 479",
-    "businessLocation": Object {
+    "businessLocation": {
       "postcode": 2323,
       "state": "NSW",
     },
     "name": "168 Racing",
     "type": "Business Name",
   },
-  Object {
-    "abn": "79 615 837 968",
-    "businessLocation": Object {
-      "postcode": 2756,
-      "state": "NSW",
-    },
-    "name": "179 RACING PTY LTD",
-    "type": "Entity Name",
-  },
-  Object {
+  {
     "abn": "64 356 141 889",
-    "businessLocation": Object {
+    "businessLocation": {
       "postcode": 3931,
       "state": "VIC",
     },
     "name": "181 Racing",
     "type": "Trading Name",
   },
-  Object {
+  {
     "abn": "82 411 754 600",
-    "businessLocation": Object {
+    "businessLocation": {
       "postcode": 6108,
       "state": "WA",
     },
     "name": "1935 RACING",
     "type": "Business Name",
   },
-  Object {
+  {
+    "abn": "52 612 852 927",
+    "businessLocation": {
+      "postcode": 2261,
+      "state": "NSW",
+    },
+    "name": "427 RACING",
+    "type": "Business Name",
+  },
+  {
+    "abn": "83 450 969 663",
+    "businessLocation": {
+      "postcode": 5096,
+      "state": "SA",
+    },
+    "name": "63 Racing",
+    "type": "Business Name",
+  },
+  {
     "abn": "52 324 465 182",
-    "businessLocation": Object {
+    "businessLocation": {
       "postcode": 7019,
       "state": "TAS",
     },
     "name": "757 Racing",
     "type": "Trading Name",
   },
-  Object {
+  {
+    "abn": "51 775 419 658",
+    "businessLocation": {
+      "postcode": 2758,
+      "state": "NSW",
+    },
+    "name": "777 RACING",
+    "type": "Business Name",
+  },
+  {
     "abn": "80 187 935 196",
-    "businessLocation": Object {
+    "businessLocation": {
       "postcode": 2570,
       "state": "NSW",
     },
     "name": "78 RACING",
     "type": "Business Name",
   },
-  Object {
+  {
+    "abn": "95 722 823 980",
+    "businessLocation": {
+      "postcode": 3006,
+      "state": "VIC",
+    },
+    "name": "838 RACING",
+    "type": "Business Name",
+  },
+  {
     "abn": "16 081 865 312",
-    "businessLocation": Object {
+    "businessLocation": {
       "postcode": 3121,
       "state": "VIC",
     },
     "name": "88 racing",
     "type": "Business Name",
   },
-  Object {
+  {
     "abn": "21 164 489 454",
-    "businessLocation": Object {
+    "businessLocation": {
       "postcode": 3931,
       "state": "VIC",
     },
     "name": "888 RACING PTY LTD",
     "type": "Entity Name",
   },
-  Object {
+  {
     "abn": "49 839 287 836",
-    "businessLocation": Object {
+    "businessLocation": {
       "postcode": 2015,
       "state": "NSW",
     },
     "name": "991 RACING",
     "type": "Business Name",
   },
-  Object {
+  {
     "abn": "73 611 762 308",
-    "businessLocation": Object {
+    "businessLocation": {
       "postcode": 2015,
       "state": "NSW",
     },
     "name": "991 RACING PTY LTD",
     "type": "Entity Name",
   },
-  Object {
+  {
+    "abn": "16 632 382 622",
+    "businessLocation": {
+      "postcode": 5160,
+      "state": "SA",
+    },
+    "name": "AA RACING",
+    "type": "Business Name",
+  },
+  {
     "abn": "88 006 180 801",
-    "businessLocation": Object {
+    "businessLocation": {
       "postcode": 2010,
       "state": "NSW",
     },
     "name": "AAP RACING",
     "type": "Business Name",
   },
-  Object {
+  {
+    "abn": "86 969 895 367",
+    "businessLocation": {
+      "postcode": 4226,
+      "state": "QLD",
+    },
+    "name": "AB RACING",
+    "type": "Business Name",
+  },
+  {
+    "abn": "38 661 707 151",
+    "businessLocation": {
+      "postcode": 3153,
+      "state": "VIC",
+    },
+    "name": "ACCELERATE RACING",
+    "type": "Business Name",
+  },
+  {
     "abn": "32 576 195 721",
-    "businessLocation": Object {
+    "businessLocation": {
       "postcode": 3898,
       "state": "VIC",
     },
     "name": "ACCURATE RACING",
     "type": "Business Name",
   },
-  Object {
+  {
     "abn": "48 950 417 828",
-    "businessLocation": Object {
-      "postcode": 4455,
+    "businessLocation": {
+      "postcode": 4350,
       "state": "QLD",
     },
     "name": "ACE Racing",
     "type": "Business Name",
   },
-  Object {
+  {
     "abn": "35 605 799 835",
-    "businessLocation": Object {
+    "businessLocation": {
       "postcode": 4036,
       "state": "QLD",
     },
     "name": "ACME RACING PTY LTD",
     "type": "Entity Name",
   },
-  Object {
+  {
     "abn": "68 565 820 701",
-    "businessLocation": Object {
+    "businessLocation": {
       "postcode": 3340,
       "state": "VIC",
     },
     "name": "ACTION RACING",
     "type": "Trading Name",
   },
-  Object {
+  {
     "abn": "64 961 002 359",
-    "businessLocation": Object {
+    "businessLocation": {
       "postcode": 4064,
       "state": "QLD",
     },
     "name": "ACTIVE RACING",
     "type": "Trading Name",
   },
-  Object {
+  {
     "abn": "28 313 366 373",
-    "businessLocation": Object {
+    "businessLocation": {
       "postcode": 3173,
       "state": "VIC",
     },
     "name": "ACTON RACING",
     "type": "Business Name",
   },
-  Object {
+  {
     "abn": "15 466 247 119",
-    "businessLocation": Object {
+    "businessLocation": {
       "postcode": 4516,
       "state": "QLD",
     },
     "name": "ADRENALIN RACING",
     "type": "Business Name",
   },
-  Object {
+  {
     "abn": "50 164 508 187",
-    "businessLocation": Object {
+    "businessLocation": {
       "postcode": 4152,
       "state": "QLD",
     },
     "name": "ADT RACING PTY LTD",
     "type": "Entity Name",
   },
-  Object {
+  {
     "abn": "14 115 911 638",
-    "businessLocation": Object {
+    "businessLocation": {
       "postcode": 5095,
       "state": "SA",
     },
     "name": "ADW RACING PTY. LTD.",
     "type": "Entity Name",
   },
-  Object {
-    "abn": "98 627 439 678",
-    "businessLocation": Object {
-      "postcode": 7303,
-      "state": "TAS",
-    },
-    "name": "AFR RACING PTY LTD",
-    "type": "Entity Name",
-  },
-  Object {
+  {
     "abn": "83 646 979 204",
-    "businessLocation": Object {
+    "businessLocation": {
       "postcode": 3977,
       "state": "VIC",
     },
     "name": "AGR RACING PTY LTD",
     "type": "Entity Name",
   },
-  Object {
+  {
+    "abn": "81 145 541 205",
+    "businessLocation": {
+      "postcode": 2209,
+      "state": "NSW",
+    },
+    "name": "AGROS RACING",
+    "type": "Business Name",
+  },
+  {
     "abn": "65 618 660 399",
-    "businessLocation": Object {
+    "businessLocation": {
       "postcode": 3104,
       "state": "VIC",
     },
     "name": "AGS RACING",
     "type": "Other Name",
   },
-  Object {
+  {
     "abn": "40 980 295 393",
-    "businessLocation": Object {
+    "businessLocation": {
       "postcode": 5159,
       "state": "SA",
     },
     "name": "AH RACING",
     "type": "Trading Name",
   },
-  Object {
+  {
     "abn": "30 168 941 633",
-    "businessLocation": Object {
+    "businessLocation": {
       "postcode": 2155,
       "state": "NSW",
     },
     "name": "AH RACING PTY LTD",
     "type": "Entity Name",
   },
-  Object {
+  {
     "abn": "17 613 414 467",
-    "businessLocation": Object {
+    "businessLocation": {
       "postcode": 3664,
       "state": "VIC",
     },
     "name": "AIKEN RACING PTY LTD",
     "type": "Entity Name",
   },
-  Object {
-    "abn": "34 122 836 855",
-    "businessLocation": Object {
-      "postcode": 4512,
-      "state": "QLD",
+  {
+    "abn": "42 335 402 972",
+    "businessLocation": {
+      "postcode": 3663,
+      "state": "VIC",
     },
-    "name": "AJ's Racing Pty Ltd",
-    "type": "Entity Name",
-  },
-  Object {
-    "abn": "37 385 238 470",
-    "businessLocation": Object {
-      "postcode": 6230,
-      "state": "WA",
-    },
-    "name": "AJA Racing",
-    "type": "Business Name",
-  },
-  Object {
-    "abn": "11 625 276 539",
-    "businessLocation": Object {
-      "postcode": 2233,
-      "state": "NSW",
-    },
-    "name": "AJL RACING PTY LTD",
-    "type": "Entity Name",
-  },
-  Object {
-    "abn": "98 309 533 433",
-    "businessLocation": Object {
-      "postcode": 2285,
-      "state": "NSW",
-    },
-    "name": "AJR RACING",
+    "name": "AJ RACING",
     "type": "Trading Name",
-  },
-  Object {
-    "abn": "80 328 252 079",
-    "businessLocation": Object {
-      "postcode": 4500,
-      "state": "QLD",
-    },
-    "name": "AK Racing",
-    "type": "Business Name",
-  },
-  Object {
-    "abn": "27 604 022 924",
-    "businessLocation": Object {
-      "postcode": 2753,
-      "state": "NSW",
-    },
-    "name": "AKA Racing Partnership",
-    "type": "Business Name",
-  },
-  Object {
-    "abn": "53 404 267 515",
-    "businessLocation": Object {
-      "postcode": 3754,
-      "state": "VIC",
-    },
-    "name": "ALBARRI RACING",
-    "type": "Business Name",
-  },
-  Object {
-    "abn": "47 646 305 473",
-    "businessLocation": Object {
-      "postcode": 4000,
-      "state": "QLD",
-    },
-    "name": "ALCHAU RACING PTY LTD",
-    "type": "Entity Name",
-  },
-  Object {
-    "abn": "94 006 767 791",
-    "businessLocation": Object {
-      "postcode": 3977,
-      "state": "VIC",
-    },
-    "name": "ALDERSON RACING PTY LTD",
-    "type": "Entity Name",
-  },
-  Object {
-    "abn": "59 182 391 656",
-    "businessLocation": Object {
-      "postcode": 2745,
-      "state": "NSW",
-    },
-    "name": "ALLAM RACING",
-    "type": "Business Name",
   },
 ]
 `;
 
 exports[`searchActive() should get the list company match with snapshot of 'Toy World Australia' 1`] = `
-Array [
-  Object {
+[
+  {
     "abn": "43 165 614 120",
-    "businessLocation": Object {
+    "businessLocation": {
       "postcode": 3754,
       "state": "VIC",
     },
     "name": "Toy World Australia",
     "type": "Business Name",
   },
-  Object {
-    "abn": "91 156 208 221",
-    "businessLocation": Object {
-      "postcode": 2194,
+  {
+    "abn": "71 645 258 251",
+    "businessLocation": {
+      "postcode": 2000,
       "state": "NSW",
     },
-    "name": "T WORLD AUSTRALIA PTY LTD",
-    "type": "Entity Name",
+    "name": "T Australia",
+    "type": "Business Name",
   },
-  Object {
+  {
     "abn": "33 120 406 322",
-    "businessLocation": Object {
+    "businessLocation": {
       "postcode": 3000,
       "state": "VIC",
     },
-    "name": "T-WORLD PTY. LTD.",
-    "type": "Entity Name",
+    "name": "T-world Pty Ltd",
+    "type": "Trading Name",
   },
-  Object {
+  {
     "abn": "20 018 176 368",
-    "businessLocation": Object {
+    "businessLocation": {
       "postcode": 2605,
       "state": "ACT",
     },
     "name": "THE_T_AUS",
     "type": "Business Name",
   },
-  Object {
+  {
     "abn": "56 107 469 634",
-    "businessLocation": Object {
+    "businessLocation": {
       "postcode": 3085,
       "state": "VIC",
     },
     "name": "TJR Australia Pty Ltd",
     "type": "Entity Name",
   },
-  Object {
+  {
+    "abn": "67 992 187 972",
+    "businessLocation": {
+      "postcode": 4300,
+      "state": "QLD",
+    },
+    "name": "TA.TOY.",
+    "type": "Business Name",
+  },
+  {
     "abn": "84 474 193 513",
-    "businessLocation": Object {
+    "businessLocation": {
       "postcode": 3040,
       "state": "VIC",
     },
     "name": "The Toy Company",
     "type": "Other Name",
   },
-  Object {
+  {
     "abn": "83 156 577 258",
-    "businessLocation": Object {
+    "businessLocation": {
       "postcode": 2075,
       "state": "NSW",
     },
     "name": "Toycorp Pty Ltd",
     "type": "Entity Name",
   },
-  Object {
-    "abn": "56 284 137 903",
-    "businessLocation": Object {
-      "postcode": 3338,
-      "state": "VIC",
+  {
+    "abn": "68 166 658 019",
+    "businessLocation": {
+      "postcode": 6150,
+      "state": "WA",
     },
-    "name": "Australia to the world",
-    "type": "Business Name",
+    "name": "TAYCORP AUSTRALIA PTY LTD",
+    "type": "Entity Name",
   },
-  Object {
+  {
     "abn": "57 640 464 160",
-    "businessLocation": Object {
+    "businessLocation": {
       "postcode": 3128,
       "state": "VIC",
     },
     "name": "TY AUST PTY LTD",
     "type": "Entity Name",
   },
-  Object {
+  {
     "abn": "50 098 373 329",
-    "businessLocation": Object {
+    "businessLocation": {
       "postcode": 2250,
       "state": "NSW",
     },
-    "name": "TY AUSTRALIA LLC",
+    "name": "TY AUSTRALIA, LLC",
     "type": "Entity Name",
   },
-  Object {
+  {
+    "abn": "73 454 521 026",
+    "businessLocation": {
+      "postcode": 3193,
+      "state": "VIC",
+    },
+    "name": "Mr Teez Aus",
+    "type": "Business Name",
+  },
+  {
     "abn": "30 884 134 983",
-    "businessLocation": Object {
+    "businessLocation": {
       "postcode": 4104,
       "state": "QLD",
     },
     "name": "TEE WORLD",
     "type": "Business Name",
   },
-  Object {
+  {
     "abn": "14 351 811 594",
-    "businessLocation": Object {
+    "businessLocation": {
       "postcode": 4035,
       "state": "QLD",
     },
     "name": "TEE'Z AUSTRALIA",
     "type": "Business Name",
   },
-  Object {
+  {
     "abn": "38 009 872 600",
-    "businessLocation": Object {
+    "businessLocation": {
       "postcode": 4207,
       "state": "QLD",
     },
     "name": "TEYS AUSTRALIA PTY LTD",
     "type": "Entity Name",
   },
-  Object {
+  {
     "abn": "52 610 956 717",
-    "businessLocation": Object {
+    "businessLocation": {
       "postcode": 2030,
       "state": "NSW",
     },
     "name": "THEE AUSTRALIA PTY. LTD.",
     "type": "Entity Name",
   },
-  Object {
+  {
     "abn": "44 634 989 527",
-    "businessLocation": Object {
+    "businessLocation": {
       "postcode": 5063,
       "state": "SA",
     },
     "name": "THIYES Australia",
     "type": "Business Name",
   },
-  Object {
+  {
+    "abn": "23 657 501 132",
+    "businessLocation": {
+      "postcode": 2145,
+      "state": "NSW",
+    },
+    "name": "TOWIES AUSTRALIA PTY LTD",
+    "type": "Entity Name",
+  },
+  {
     "abn": "63 128 617 961",
-    "businessLocation": Object {
+    "businessLocation": {
       "postcode": 6743,
       "state": "WA",
     },
     "name": "TOY WORLD KUNUNURRA",
     "type": "Trading Name",
   },
-  Object {
+  {
     "abn": "72 164 700 618",
-    "businessLocation": Object {
+    "businessLocation": {
       "postcode": 2140,
       "state": "NSW",
     },
     "name": "TYZ AUSTRALIA PTY LTD",
     "type": "Entity Name",
   },
-  Object {
+  {
     "abn": "38 127 066 693",
-    "businessLocation": Object {
+    "businessLocation": {
       "postcode": 3126,
       "state": "VIC",
     },
     "name": "Tiway Australia Pty Ltd",
     "type": "Entity Name",
   },
-  Object {
-    "abn": "25 326 374 797",
-    "businessLocation": Object {
-      "postcode": 2179,
-      "state": "NSW",
-    },
-    "name": "THE TOY EMPORIUM AUSTRALIA",
-    "type": "Business Name",
-  },
-  Object {
+  {
     "abn": "73 524 832 390",
-    "businessLocation": Object {
+    "businessLocation": {
       "postcode": 4119,
       "state": "QLD",
     },
     "name": "Toy Warehouse Australia",
     "type": "Business Name",
   },
-  Object {
+  {
+    "abn": "77 096 700 720",
+    "businessLocation": {
+      "postcode": 3850,
+      "state": "VIC",
+    },
+    "name": "SALE TOY WORLD",
+    "type": "Trading Name",
+  },
+  {
+    "abn": "62 619 629 006",
+    "businessLocation": {
+      "postcode": 2581,
+      "state": "NSW",
+    },
+    "name": "TOY THEODORES AUSTRALIA",
+    "type": "Business Name",
+  },
+  {
     "abn": "87 065 440 477",
-    "businessLocation": Object {
+    "businessLocation": {
       "postcode": 2540,
       "state": "NSW",
     },
     "name": "TOY WORLD - VINCENTIA",
     "type": "Business Name",
   },
-  Object {
-    "abn": "77 096 700 720",
-    "businessLocation": Object {
-      "postcode": 3850,
-      "state": "VIC",
-    },
-    "name": "TOY WORLD SALE PTY LTD",
-    "type": "Entity Name",
-  },
-  Object {
+  {
     "abn": "52 172 532 672",
-    "businessLocation": Object {
+    "businessLocation": {
       "postcode": 6170,
       "state": "WA",
     },
     "name": "The Trustee for THE TJR HOLDINGS AUSTRALIA TRUST",
     "type": "Entity Name",
   },
-  Object {
+  {
     "abn": "79 286 096 543",
-    "businessLocation": Object {
+    "businessLocation": {
       "postcode": 4455,
       "state": "QLD",
     },
     "name": "AUSTRALIAN TEEZ",
     "type": "Trading Name",
   },
-  Object {
+  {
+    "abn": "59 350 979 299",
+    "businessLocation": {
+      "postcode": 2259,
+      "state": "NSW",
+    },
+    "name": "TEENY TOY POODLES AUSTRALIA",
+    "type": "Business Name",
+  },
+  {
+    "abn": "29 660 130 834",
+    "businessLocation": {
+      "postcode": 2111,
+      "state": "NSW",
+    },
+    "name": "THE TOY BOX AUS PTY LTD",
+    "type": "Entity Name",
+  },
+  {
     "abn": "94 063 886 199",
-    "businessLocation": Object {
+    "businessLocation": {
       "postcode": 3149,
       "state": "VIC",
     },
     "name": "TOY & HOBBY AUSTRALIA",
     "type": "Business Name",
   },
-  Object {
+  {
+    "abn": "54 563 092 061",
+    "businessLocation": {
+      "postcode": 2759,
+      "state": "NSW",
+    },
+    "name": "TOY DEALS AUSTRALIA",
+    "type": "Business Name",
+  },
+  {
+    "abn": "55 673 238 009",
+    "businessLocation": {
+      "postcode": 2759,
+      "state": "NSW",
+    },
+    "name": "TOY DEALS AUSTRALIA PTY LTD",
+    "type": "Entity Name",
+  },
+  {
     "abn": "15 113 216 756",
-    "businessLocation": Object {
+    "businessLocation": {
       "postcode": 5072,
       "state": "SA",
     },
     "name": "TOY JOY AUSTRALIA PTY LTD",
     "type": "Entity Name",
   },
-  Object {
-    "abn": "54 563 092 061",
-    "businessLocation": Object {
-      "postcode": 2759,
-      "state": "NSW",
+  {
+    "abn": "43 660 403 494",
+    "businessLocation": {
+      "postcode": 3149,
+      "state": "VIC",
     },
-    "name": "Toy Deals Australia",
+    "name": "Toy Mart Australia",
     "type": "Business Name",
   },
-  Object {
+  {
     "abn": "25 001 145 179",
-    "businessLocation": Object {
+    "businessLocation": {
       "postcode": 2228,
       "state": "NSW",
     },
     "name": "AUSTRALIAN TOY DISTRIBUTORS",
     "type": "Business Name",
   },
-  Object {
+  {
     "abn": "37 122 445 121",
-    "businessLocation": Object {
+    "businessLocation": {
       "postcode": 2229,
       "state": "NSW",
     },
     "name": "AUSTRALIAN TOY DISTRIBUTORS PTY LTD",
     "type": "Entity Name",
   },
-  Object {
+  {
     "abn": "71 601 738 176",
-    "businessLocation": Object {
+    "businessLocation": {
       "postcode": 2609,
       "state": "ACT",
     },
     "name": "TOY HAULER AUSTRALIA PTY LTD",
     "type": "Entity Name",
   },
-  Object {
-    "abn": "77 004 376 578",
-    "businessLocation": Object {
-      "postcode": 3124,
+  {
+    "abn": "33 670 558 068",
+    "businessLocation": {
+      "postcode": 2153,
+      "state": "NSW",
+    },
+    "name": "ACES TOY WORLD PTY LTD",
+    "type": "Entity Name",
+  },
+  {
+    "abn": "43 660 403 494",
+    "businessLocation": {
+      "postcode": 3149,
       "state": "VIC",
     },
-    "name": "ANTIQUE TOY WORLD",
-    "type": "Trading Name",
+    "name": "TOY KINGDOM AUSTRALIA PTY LTD",
+    "type": "Entity Name",
   },
-  Object {
-    "abn": "61 060 091 045",
-    "businessLocation": Object {
-      "postcode": 3136,
-      "state": "VIC",
-    },
-    "name": "Antique Toy World",
-    "type": "Business Name",
-  },
-  Object {
+  {
     "abn": "37 126 456 764",
-    "businessLocation": Object {
+    "businessLocation": {
       "postcode": 4069,
       "state": "QLD",
     },
     "name": "WICKED TOYS AUSTRALIA PTY. LTD.",
     "type": "Entity Name",
-  },
-  Object {
-    "abn": "95 051 172 115",
-    "businessLocation": Object {
-      "postcode": 4355,
-      "state": "QLD",
-    },
-    "name": "HORSE AND TOY HAULERS AUSTRALIA TRAILERS",
-    "type": "Business Name",
-  },
-  Object {
-    "abn": "74 010 078 010",
-    "businessLocation": Object {
-      "postcode": 4127,
-      "state": "QLD",
-    },
-    "name": "MR TOYS",
-    "type": "Business Name",
-  },
-  Object {
-    "abn": "67 132 780 029",
-    "businessLocation": Object {
-      "postcode": 3183,
-      "state": "VIC",
-    },
-    "name": "MY TOY BOX AUSTRALIA",
-    "type": "Business Name",
-  },
-  Object {
-    "abn": "51 008 105 637",
-    "businessLocation": Object {
-      "postcode": 5608,
-      "state": "SA",
-    },
-    "name": "PINOCCHIO'S TOY WORLD PTY LTD",
-    "type": "Trading Name",
-  },
-  Object {
-    "abn": "39 779 456 747",
-    "businessLocation": Object {
-      "postcode": 2750,
-      "state": "NSW",
-    },
-    "name": "Sensory Toys Australia",
-    "type": "Business Name",
-  },
-  Object {
-    "abn": "58 244 294 325",
-    "businessLocation": Object {
-      "postcode": 2195,
-      "state": "NSW",
-    },
-    "name": "THOY",
-    "type": "Business Name",
-  },
-  Object {
-    "abn": "71 969 280 721",
-    "businessLocation": Object {
-      "postcode": 3018,
-      "state": "VIC",
-    },
-    "name": "Toy Figure World",
-    "type": "Business Name",
   },
 ]
 `;
